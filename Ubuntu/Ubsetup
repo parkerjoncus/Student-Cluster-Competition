@@ -1,5 +1,4 @@
 mv ~/Student-Cluster-Competition ~/SCC
-cd
 #MPICH
 mkdir mpich
 wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
@@ -31,6 +30,5 @@ mkdir build
 cd build
 /home/cc/hpcg-3.0/configure hpcg
 make
-
 #Logout
 exit
