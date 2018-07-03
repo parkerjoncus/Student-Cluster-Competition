@@ -1,0 +1,6 @@
+for val in {8..160..8}
+do
+	printf " \n \n" echo > datafiles/HPCG$val.dat
+	echo $val $val $val>> datafiles/HPCG$val.dat
+	printf "60\n" echo >> datafiles/HPCG$val.dat
+done

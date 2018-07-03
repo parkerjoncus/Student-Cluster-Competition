@@ -1,0 +1,21 @@
+rm -rf datafiles
+mkdir datafiles
+cp datatemplate.csv data.csv
+./writeHPCG
+for file in ./datafiles/*
+do
+	echo $file
+	cp $file ./hpcg.dat
+	mpiexec ./xhpcg
+done
+./removetext
+rm -rf output
+mkdir output
+./movey
+echo size,Gflops > data.csv
+for file in ./output/*
+do
+	echo -n $(egrep "(Global nx:)" $file | awk -F':' '{print $2}') >> data.csv
+        echo -n , >> data.csv
+        egrep "GFLOP/s rating of:" $file | awk -F':' '{print $2}' >> data.csv
+done
