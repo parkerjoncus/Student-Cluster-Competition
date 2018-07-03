@@ -17,8 +17,10 @@ wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
 tar -xvf hpl-2.2.tar.gz
 cd hpl-2.2
 cp ~/SCC/Ubuntu/Make.hpl Make.hpl
-make arch=Linux clean_arch_all
-make arch=Linux
+make arch=hpl clean_arch_all
+make arch=hpl
+cd bin/hpl
+cp -r /home/cc/SCC/hplData/* ./ 
 #HPCG
 cd
 wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
@@ -30,5 +32,7 @@ mkdir build
 cd build
 /home/cc/hpcg-3.0/configure hpcg
 make
+cd bin
+cp -r /home/cc/SCC/hpcgData/* ./
 #Logout
 exit
