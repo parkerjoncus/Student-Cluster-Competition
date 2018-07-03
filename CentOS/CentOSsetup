@@ -1,0 +1,37 @@
+mv ~/Student-Cluster-Competition ~/SCC
+#MPICH
+mkdir mpich
+wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
+tar -xvf mpich-3.2.1.tar.gz
+cd mpich-3.2.1
+./configure --prefix=/home/cc/mpich
+make all |& tee m.log
+make all install |& tee mi.log
+printf "PATH=/home/cc/mpich/bin:$PATH ; export PATH" >> /home/cc/.bashrc
+#BLAS
+cd
+sudo yum install blas -y
+#HPL
+wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
+tar -xvf hpl-2.2.tar.gz
+cd hpl-2.2
+cp ~/SCC/CentOS/Make.hpl Make.hpl
+make arch=hpl clean_arch_all
+make arch=hpl
+cd bin/hpl
+cp -r /home/cc/SCC/hplData/* ./ 
+#HPCG
+cd
+wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
+tar -xvf hpcg-3.0.tar.gz
+cd hpcg-3.0/setup
+cp /home/cc/SCC/CentOs/Make.hpcg Make.hpcg
+cd ..
+mkdir build
+cd build
+/home/cc/hpcg-3.0/configure hpcg
+make
+cd bin
+cp -r /home/cc/SCC/hpcgData/* ./
+#Logout
+exit
