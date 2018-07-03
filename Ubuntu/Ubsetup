@@ -20,7 +20,7 @@ cd hpl-2.2/setup
 sh make_generic
 cp Make.UNKNOWN ../Make.Linux
 cd ..
-cp ~/SCC/Make.Linux Make.Linux
+cp ~/SCC/Ubuntu/Make.Linux Make.Linux
 make arch=Linux clean_arch_all
 make arch=Linux
 #Logout
