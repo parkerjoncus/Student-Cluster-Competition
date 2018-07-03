@@ -1,0 +1,11 @@
+for val in {10..25..1}
+do
+	for num in {20000..20000..1000}
+	do
+		printf "\n\nHPL.out\n1\n1\n" echo > datafiles/HPL$val$num.dat
+		echo $num >> datafiles/HPL$val$num.dat
+		printf "1\n" echo >> datafiles/HPL$val$num.dat
+		echo $val >> datafiles/HPL$val$num.dat
+		printf "0\n1\n6\n1\n16.0\n1\n2\n1\n4\n1\n2\n1\n1\n1\n1\n1\n1\n2\n64\n0\n0\n1\n8" echo >> datafiles/HPL$val$num.dat
+	done
+done

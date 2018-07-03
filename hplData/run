@@ -1,0 +1,22 @@
+rm -rf datafiles
+mkdir datafiles
+cp datatemplate.csv data.csv
+./writeHPL
+for file in $(ls -v ./datafiles)
+do
+	echo $file
+	cp datafiles/$file ./HPL.dat
+	mpiexec ./xhpl
+	egrep "(e.00|e.01)" HPL.out > data
+	sed -e 's/\s\+/,/g' data >> data.csv
+done
+#cp ./datafiles/HPL2.dat ./HPL.dat
+#mpiexec ./xhpl
+#cp ./datafiles/HPL3.dat ./HPL.dat
+#mpiexec ./xhpl
+#cp ./datafiles/HPL4.dat ./HPL.dat
+#mpiexec ./xhpl
+
+
+#egrep "(e.00|e.01)" HPL.out >> data
+#sed -e 's/\s\+/,/g' data > data.csv
