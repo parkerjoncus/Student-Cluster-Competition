@@ -1,4 +1,5 @@
 mv ~/Student-Cluster-Competition ~/SCC
+cd
 #MPICH
 mkdir mpich
 wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
