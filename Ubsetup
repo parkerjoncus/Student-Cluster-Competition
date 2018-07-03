@@ -1,0 +1,26 @@
+#MPICH
+mkdir mpich
+wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
+tar -xvf mpich-3.2.1.tar.gz
+cd mpich-3.2.1
+./configure --prefix=/home/cc/mpich
+make all |& tee m.log
+make all install |& tee mi.log
+echo PATH=/home/cc/mpich/bin:$PATH ; export PATH >> /home/cc/.bashrc
+#BLAS
+cd
+sudo apt-get install libblas-dev -y
+sudo apt-get install libblas-doc -y
+#HPL
+wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
+tar -xvf hpl-2.2.tar.gz
+cd hpl-2.2/setup
+sh make_generic
+cp Make.UNKNOWN ../Make.Linux
+cd ..
+nano Make.Linux
+#Change paths
+make arch=Linux clean_arch_all
+make arch=Linux
+#Logout
+logout
