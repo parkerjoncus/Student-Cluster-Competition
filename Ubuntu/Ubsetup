@@ -16,12 +16,21 @@ sudo apt-get install libblas-doc -y
 #HPL
 wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
 tar -xvf hpl-2.2.tar.gz
-cd hpl-2.2/setup
-sh make_generic
-cp Make.UNKNOWN ../Make.Linux
-cd ..
-cp ~/SCC/Ubuntu/Make.Linux Make.Linux
+cd hpl-2.2
+cp ~/SCC/Ubuntu/Make.hpl Make.hpl
 make arch=Linux clean_arch_all
 make arch=Linux
+#HPCG
+cd
+wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
+tar -xvf hpcg-3.0.tar.gz
+cd hpcg-3.0/setup
+cp /home/cc/SCC/Ubuntu/Make.hpcg Make.hpcg
+cd ..
+mkdir build
+cd build
+/home/cc/hpcg-3.0/configure hpcg
+make
+
 #Logout
 exit
