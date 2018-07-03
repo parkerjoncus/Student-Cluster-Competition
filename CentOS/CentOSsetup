@@ -26,7 +26,7 @@ cd
 wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
 tar -xvf hpcg-3.0.tar.gz
 cd hpcg-3.0/setup
-cp /home/cc/SCC/CentOs/Make.hpcg Make.hpcg
+cp /home/cc/SCC/CentOS/Make.hpcg Make.hpcg
 cd ..
 mkdir build
 cd build

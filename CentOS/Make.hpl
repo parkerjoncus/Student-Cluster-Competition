@@ -94,7 +94,7 @@ MPlib        = -L$(MPdir)/lib
 #
 LAdir        = /usr/lib64 
 LAinc        = 
-LAlib        = /usr/lib/libblas.so.3.4.2
+LAlib        = /usr/lib64/libblas.so.3.4.2
 #
 # ----------------------------------------------------------------------
 # - F77 / C interface --------------------------------------------------
