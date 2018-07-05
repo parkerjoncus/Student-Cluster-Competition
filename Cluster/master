@@ -9,17 +9,6 @@ sudo useradd -g 0 -d /mirror -s /bin/bash mpiu
 sudo passwd mpiu
 sudo chown mpiu /mirror
 echo  "mpiu ALL=(ALL:ALL) ALL" | sudo tee -a /etc/sudoers
+sudo -H -u mpiu bash -c 'cp /home/cc/.bashrc /mirror/.bashrc'
+sudo -H -u mpiu bash -c 'cd && ssh-keygen -t rsa && cd ~/.ssh && cat id_rsa.pub >> authorized_keys && sudo apt-get install build-essential -y && cd /mirror && sudo cp -a /home/cc/* ./ && printf "master:48 \nslave-1:48 \nslave-2:48 \nslave-3:48" >> names'
 su mpiu
-cp /home/cc/.bashrc /mirror/.bashrc
-exit
-su mpiu
-cd
-ssh-keygen -t rsa
-cd ~/.ssh
-cat id_rsa.pub >> authorized_keys
-sudo apt-get install build-essential -y
-cd /mirror
-sudo cp -a /home/cc/* ./
-printf "master:48 \nslave-1:48 \nslave-2:48 \nslave-3:48" >> names
-
-

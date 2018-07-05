@@ -7,7 +7,5 @@ echo "master:/mirror /mirror nfs" | sudo tee -a /etc/fstab
 sudo useradd -g 0 -d /mirror -s /bin/bash mpiu
 sudo passwd mpiu
 echo  "mpiu ALL=(ALL:ALL) ALL" | sudo tee -a /etc/sudoers
-su mpiu
-cp /home/cc/.bashrc /mirror/.bashrc
-exit
+sudo -H -u mpiu bash -c 'cp /home/cc/.bashrc /mirror/.bashrc'
 su mpiu
