@@ -8,5 +8,5 @@ sudo adduser mpiu
 sudo adduser mpiu
 sudo usermod -aG sudo mpiu
 sudo chown mpiu /mirror
-su mpiu
+su -s -u mpiu
 

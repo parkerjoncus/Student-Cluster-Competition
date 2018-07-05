@@ -7,14 +7,15 @@ echo "/mirror *(rw,sync)" | sudo tee -a /etc/exports
 sudo service nfs-kernel-server restart
 sudo useradd -G sudo -m -d /mirror mpiu
 sudo passwd mpiu
-sudo chown mpiu /mirror
-su mpiu
+sudo chown -R mpiu /mirror
+sudo -s -u mpiu
 cd
 ssh-keygen -t rsa
 cd ~/.ssh
 cat id_rsa.pub >> authorized_keys
 sudo apt-get install build-essential -y
-cd
-cp -a /home/cc/Student-Cluster-Competition ./SCC
-./SCC/Ubuntu/Ubsetup
+cd /mirror
+sudo cp -a /home/cc/* ./
+printf "master:48 \nslave-1:48 \nslave-2:48 \nslave-3:48" >> names
+
 
