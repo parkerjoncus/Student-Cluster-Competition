@@ -1,1 +1,20 @@
- 
+cd
+sudo apt-get install nano -y
+sudo nano /etc/hosts #manually remove 127.0.1.1 and add ip addresses and names of master and clients
+sudo apt-get install nfs-server -y
+sudo mkdir /mirror 
+echo "/mirror *(rw,sync)" | sudo tee -a /etc/exports
+sudo service nfs-kernel-server restart
+sudo useradd -G sudo -m -d /mirror mpiu
+sudo passwd mpiu
+sudo chown mpiu /mirror
+su mpiu
+cd
+ssh-keygen -t rsa
+cd ~/.ssh
+cat id_rsa.pub >> authorized_keys
+sudo apt-get install build-essential -y
+cd
+cp -a /home/cc/Student-Cluster-Competition ./SCC
+./SCC/Ubuntu/Ubsetup
+

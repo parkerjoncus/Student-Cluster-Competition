@@ -1,1 +1,12 @@
- 
+cd
+sudo nano /etc/hosts #manually remove 127.0.1.1 and add ip addresses and names $
+sudo apt-get install nfs-client -y
+sudo mkdir /mirror
+sudo mount master:/mirror /mirror
+echo "master:/mirror /mirror nfs" | sudo tee -a /etc/fstab
+sudo adduser mpiu
+sudo adduser mpiu
+sudo usermod -aG sudo mpiu
+sudo chown mpiu /mirror
+su mpiu
+
