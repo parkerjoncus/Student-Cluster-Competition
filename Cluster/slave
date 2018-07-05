@@ -4,9 +4,7 @@ sudo apt-get install nfs-client -y
 sudo mkdir /mirror
 sudo mount master:/mirror /mirror
 echo "master:/mirror /mirror nfs" | sudo tee -a /etc/fstab
-sudo adduser mpiu
-sudo adduser mpiu
-sudo usermod -aG sudo mpiu
-sudo chown mpiu /mirror
+sudo useradd -G sudo -m -d /mirror mpiu
+sudo passwd mpiu
 su -s -u mpiu
 
