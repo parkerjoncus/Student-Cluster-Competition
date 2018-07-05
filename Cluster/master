@@ -5,10 +5,14 @@ sudo apt-get install nfs-server -y
 sudo mkdir /mirror 
 echo "/mirror *(rw,sync)" | sudo tee -a /etc/exports
 sudo service nfs-kernel-server restart
-sudo useradd -G root -d /mirror mpiu
+sudo useradd -g 0 -d /mirror -s /bin/bash mpiu
 sudo passwd mpiu
-sudo chown -R mpiu /mirror
-sudo -s -u mpiu
+sudo chown mpiu /mirror
+echo  "mpiu ALL=(ALL:ALL) ALL" | sudo tee -a /etc/sudoers
+su mpiu
+cp /home/cc/.bashrc /mirror/.bashrc
+exit
+su mpiu
 cd
 ssh-keygen -t rsa
 cd ~/.ssh
