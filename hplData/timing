@@ -1,0 +1,3 @@
+printf 'Column,Remove,Fraction,Gflops\n' > data.csv
+mpiexec -n 48 ./xhpl > data
+sed -e 's/\s\+/,/g' data >> data.csv
