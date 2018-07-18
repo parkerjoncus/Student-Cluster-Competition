@@ -6,7 +6,7 @@ for file in $(ls -v ./datafiles)
 do
 	echo $file
 	cp datafiles/$file ./HPL.dat
-	mpiexec ./xhpl
+	mpiexec -n 192 -f /mirror/names ./xhpl
 	egrep "(e.00|e.01)" HPL.out > data
 	sed -e 's/\s\+/,/g' data >> data.csv
 done
