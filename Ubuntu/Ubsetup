@@ -35,5 +35,10 @@ cd build
 make
 cd bin
 cp -r /home/cc/SCC/hpcgData/* ./
-#Logout
-exit
+#Horovod
+sudo apt install python-pip
+pip install Tensorflow
+pip install torch torchvision
+pip install horovod
+git clone https://github.com/uber/horovod
+#Monte Carlo
