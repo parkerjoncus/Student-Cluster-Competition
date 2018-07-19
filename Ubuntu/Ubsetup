@@ -36,9 +36,31 @@ make
 cd bin
 cp -r /home/cc/SCC/hpcgData/* ./
 #Horovod
-sudo apt install python-pip
+sudo apt install python-pip -y
 pip install Tensorflow
 pip install torch torchvision
 pip install horovod
 git clone https://github.com/uber/horovod
 #Monte Carlo
+sudo apt install gfortran -y
+sudo apt install g++ -y
+sudo apt install cmake -y
+sudo apt-get install libhdf5-dev -y
+git clone https://github.com/mit-crpg/openmc.git
+cd openmc
+mkdir build && cd build
+cmake ..
+make
+sudo make install
+pip install six
+pip install numpy
+pip install scipy
+pip install pandas
+pip install h5py
+pip install Matplotlib
+pip install uncertainties
+pip install lxml
+pip install Cython
+pip install vtk
+pip install silomesh
+pip install pytest
