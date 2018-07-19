@@ -36,12 +36,14 @@ make
 cd bin
 cp -r /home/cc/SCC/hpcgData/* ./
 #Horovod
+cd
 sudo apt install python-pip -y
 pip install Tensorflow
 pip install torch torchvision
 pip install horovod
 git clone https://github.com/uber/horovod
 #Monte Carlo
+cd
 sudo apt install gfortran -y
 sudo apt install g++ -y
 sudo apt install cmake -y
