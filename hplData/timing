@@ -1,5 +1,5 @@
 printf 'Column,Fraction,Gflops\n' > data.csv
-mpiexec -n 48 ./xhpl > data
-| tr '=' ' ' | tr -d '%'  data > temp
+time mpiexec -n 48 ./xhpl > data
+cat data | tr '=' ' ' | tr -d '%' > temp
 cut -d ' ' -f2,4,6 temp | sed -e 's/\s\+/,/g' >> data.csv
 rm temp
