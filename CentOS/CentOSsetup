@@ -8,7 +8,7 @@ cd mpich-3.2.1
 ./configure --prefix=/home/cc/mpich
 make all |& tee m.log
 make all install |& tee mi.log
-printf "PATH=/home/cc/mpich/bin:$PATH ; export PATH" >> /home/cc/.bashrc
+printf "PATH=/home/cc/mpich/bin:$PATH ; export PATH\n" >> /home/cc/.bashrc
 #BLAS
 cd
 sudo yum install blas -y
@@ -34,5 +34,41 @@ cd build
 make
 cd bin
 cp -r /home/cc/SCC/hpcgData/* ./
-#Logout
-exit
+#Horovod
+cd
+sudo pip install tensorflow
+
+sudo pip install horovod
+git clone https://github.com/uber/horovod
+#OpenMC
+cd
+sudo yum install libgfortran -y
+wget https://cmake.org/files/v3.6/cmake-3.6.2.tar.gz
+tar -zxvf cmake-3.6.2.tar.gz
+cd cmake-3.6.2
+sudo ./bootstrap --prefix=/usr/local
+sudo make
+sudo make install
+printf "PATH=/usr/local/bin:$PATH:$HOME/bin\n" >> /home/cc/.bashrc
+PATH=/usr/local/bin:$PATH:$HOME/bin
+export PATH
+cd 
+sudo yum install hdf5-devel -y
+git clone https://github.com/mit-crpg/openmc.git
+cd openmc
+mkdir build && cd build
+cmake ..
+make
+sudo make install
+sudo pip install six
+sudo pip install numpy
+sudo pip install scipy
+sudo pip install pandas
+sudo pip install h5py
+sudo pip install Matplotlib
+sudo pip install uncertainties
+sudo pip install lxml
+sudo pip install Cython
+sudo pip install vtk
+sudo pip install silomesh
+sudo pip install pytest
