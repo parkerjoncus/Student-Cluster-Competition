@@ -1,0 +1,14 @@
+rm -rf datafiles
+mkdir datafiles
+for num in {1..192..1}
+do
+        ./divisors $num
+        ./divisors2 $num
+        printf "\n\nHPL.out\n1\n1\n10000\n1\n25\n0\n" echo > datafiles/HPL$num.dat
+        wc numbers.txt |awk '{print $2}' >> datafiles/HPL$num.dat
+        cat numbers.txt >> datafiles/HPL$num.dat
+        printf "\n" >> datafiles/HPL$num.dat
+        cat numbers2.txt >> datafiles/HPL$num.dat
+        echo $val >> datafiles/HPL$num.dat
+        printf "16.0\n1\n2\n1\n4\n1\n2\n1\n1\n1\n1\n1\n1\n2\n64\n0\n0\n1\n8" echo >> datafiles/HPL$num.dat
+done
