@@ -1,5 +1,5 @@
 rm numbers.txt
-n=100
+n=$1
 for val in {1..192}
 do 
 	x=$(($n%$val==0))
