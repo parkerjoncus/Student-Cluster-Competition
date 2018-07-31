@@ -5,6 +5,7 @@ do
 	x=$(($n%$val==0))
 	y=$(($val*$x))
 	if (($y > 0)); then
-		echo $y >> numbers.txt
+		printf $y >> numbers.txt
+		printf ' ' >> numbers.txt
 	fi	
 done
