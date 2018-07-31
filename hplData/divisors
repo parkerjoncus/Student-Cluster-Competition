@@ -1,0 +1,10 @@
+rm numbers.txt
+n=100
+for val in {1..192}
+do 
+	x=$(($n%$val==0))
+	y=$(($val*$x))
+	if (($y > 0)); then
+		echo $y >> numbers.txt
+	fi	
+done
