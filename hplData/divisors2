@@ -1,0 +1,11 @@
+rm numbers2.txt
+n=$1
+for val in {192..1..-1}
+do
+        x=$(($n%$val==0))
+        y=$(($val*$x))
+        if (($y > 0)); then
+                printf $y >> numbers2.txt
+                printf ' ' >> numbers2.txt
+        fi
+done
