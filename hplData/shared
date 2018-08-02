@@ -1,0 +1,16 @@
+cp datatemplate1.csv data.csv
+num=48
+for val in {0..48..1}
+do
+        val1=`expr $num - $val`
+        printf 'slave-4:' > name
+        printf $val1 >> name
+        printf '\nslave-1:' >> name
+        printf $val >> name
+        printf '\n' >> name
+        mpiexec -n 48 -f ./name ./xhpl
+        printf $val1 > data
+	printf ' ' >> data
+	egrep "(e.00|e.01|e.02)" HPL.out >> data
+        sed -e 's/\s\+/,/g' data >> data.csv
+done
