@@ -1,16 +1,24 @@
 cp datatemplate1.csv data.csv
 num=48
-for val in {0..48..1}
+mpiexec -n 48 ./xhpl
+egrep "(e.00|e.01|e.02)" HPL.out > data
+sed 's/^/48 /' data > temp
+sed -e 's/\s\+/,/g' temp >> data.csv
+for val in {1..47..1}
 do
         val1=`expr $num - $val`
-        printf 'slave-4:' > name
+        printf 'node-1:' > name
         printf $val1 >> name
-        printf '\nslave-1:' >> name
+        printf '\nnode-2:' >> name
         printf $val >> name
         printf '\n' >> name
         mpiexec -n 48 -f ./name ./xhpl
-        printf $val1 > data
-	printf ' ' >> data
-	egrep "(e.00|e.01|e.02)" HPL.out >> data
-        sed -e 's/\s\+/,/g' data >> data.csv
+        egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed "s/^/$val1 /" data > temp
+        sed -e 's/\s\+/,/g' temp >> data.csv
 done
+printf 'node-2:48' > name
+mpiexec -n 48 -f ./name ./xhpl
+egrep "(e.00|e.01|e.02)" HPL.out > data
+sed 's/^/0 /' data > temp
+sed -e 's/\s\+/,/g' temp >> data.csv
