@@ -5,7 +5,7 @@ do
         echo $val1
         cp datafiles/HPL$val1.dat ./HPL.dat
         mpiexec -n $val1 ./xhpl
-        egrep "(e.00|e.01)" HPL.out > data
+        egrep "(e.00|e.01|e.02)" HPL.out > data
         sed -e 's/\s\+/,/g' data >> data.csv
 done
 for val2 in {1..48..1}
@@ -16,7 +16,7 @@ do
         printf $val2 >> name
         cp datafiles/HPL$tot.dat ./HPL.dat
         mpiexec -n $tot -f ./name ./xhpl
-        egrep "(e.00|e.01)" HPL.out > data
+        egrep "(e.00|e.01|e.02)" HPL.out > data
         sed -e 's/\s\+/,/g' data >> data.csv
 done
 for val3 in {1..48..1}
@@ -27,7 +27,7 @@ do
         printf $val3 >> name
         cp datafiles/HPL$tot.dat ./HPL.dat
         mpiexec -n $tot -f ./name ./xhpl
-        egrep "(e.00|e.01)" HPL.out > data
+        egrep "(e.00|e.01|e.02)" HPL.out > data
         sed -e 's/\s\+/,/g' data >> data.csv
 done
 for val4 in {1..48..1}
@@ -38,7 +38,7 @@ do
         printf $val4 >> name
         cp datafiles/HPL$tot.dat ./HPL.dat
         mpiexec -n $tot -f ./name ./xhpl
-        egrep "(e.00|e.01)" HPL.out > data
+        egrep "(e.00|e.01|e.02)" HPL.out > data
         sed -e 's/\s\+/,/g' data >> data.csv
 done
 
