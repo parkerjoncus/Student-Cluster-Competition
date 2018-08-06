@@ -1,0 +1,8 @@
+./power &
+pwrpid=$(ps -a | grep power)
+starttime=$(date)
+mpiexec -n 48 ./xhpl
+endtime=$(date)
+kill $pwrpid
+echo $start
+echo $end
