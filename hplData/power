@@ -1,3 +1,1 @@
-cp powerdatatemp.csv powerdata.csv
-powerstat -R .5 120 -c -z -d 0 | sed -e 's/\s\+/,/g' > powerdata
-egrep "(..:..:..)" powerdata >> powerdata.csv
+powerstat -R .5 1200000 -c -z -d 0 | sed -e 's/\s\+/,/g' > powerdata

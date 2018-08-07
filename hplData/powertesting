@@ -4,5 +4,6 @@ starttime=$(date)
 mpiexec -n 48 ./xhpl
 endtime=$(date)
 kill $pwrpid
+egrep "(..:..:..)" powerdata >> powerdata.csv
 echo $starttime
 echo $endtime
