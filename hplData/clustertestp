@@ -2,17 +2,15 @@
 cp datatemplate.csv data.csv
 cp powerdatatemp.csv powerdata.csv
 rm times
+./power &
+pwrpid=$(ps -a | grep power)
 for val1 in {1..48..1}
 do
         echo $val1
         cp datafiles/HPL$val1.dat ./HPL.dat
-        ./power &
-        pwrpid=$(ps -a | grep power)
         starttime=$(date)
         mpiexec -n $val1 ./xhpl
         endtime=$(date)
-        kill $pwrpid
-        egrep "(..:..:..)" powerdata >> powerdata.csv
         printf "start: " >> times
         echo $starttime >> times
         printf "end: " >> times
@@ -27,13 +25,9 @@ do
         printf 'slave-4:48\nslave-1:' > name
         printf $val2 >> name
         cp datafiles/HPL$tot.dat ./HPL.dat
-	./power &
-        pwrpid=$(ps -a | grep power)
         starttime=$(date)
         mpiexec -n $tot -f ./name ./xhpl
         endtime=$(date)
-        kill $pwrpid
-        egrep "(..:..:..)" powerdata >> powerdata.csv
         printf "start: " >> times
         echo $starttime >> times
         printf "end: " >> times
@@ -48,13 +42,9 @@ do
         printf 'slave-4:48\nslave-1:48\nslave-2:' > name
         printf $val3 >> name
 	cp datafiles/HPL$tot.dat ./HPL.dat
-        ./power &
-        pwrpid=$(ps -a | grep power)
         starttime=$(date)
         mpiexec -n $tot -f ./name ./xhpl
         endtime=$(date)
-        kill $pwrpid
-        egrep "(..:..:..)" powerdata >> powerdata.csv
         printf "start: " >> times
         echo $starttime >> times
 	printf "end: " >> times
@@ -69,13 +59,9 @@ do
         printf 'slave-4:48\nslave-1:48\nslave-2:48\nslave-3:' > name
 	printf $val4 >> name
         cp datafiles/HPL$tot.dat ./HPL.dat
-        ./power &
-        pwrpid=$(ps -a | grep power)
         starttime=$(date)
         mpiexec -n $tot -f ./name ./xhpl
         endtime=$(date)
-        kill $pwrpid
-        egrep "(..:..:..)" powerdata >> powerdata.csv
         printf "start: " >> times
 	echo $starttime >> times
         printf "end: " >> times
@@ -83,3 +69,5 @@ do
         egrep "(e.00|e.01|e.02)" HPL.out > data
         sed -e 's/\s\+/,/g' data >> data.csv
 done
+kill $pwrpid
+egrep "(..:..:..)" powerdata >> powerdata.csv
