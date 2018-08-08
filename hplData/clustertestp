@@ -1,0 +1,85 @@
+./write2
+cp datatemplate.csv data.csv
+cp powerdatatemp.csv powerdata.csv
+rm times
+for val1 in {1..48..1}
+do
+        echo $val1
+        cp datafiles/HPL$val1.dat ./HPL.dat
+        ./power &
+        pwrpid=$(ps -a | grep power)
+        starttime=$(date)
+        mpiexec -n $val1 ./xhpl
+        endtime=$(date)
+        kill $pwrpid
+        egrep "(..:..:..)" powerdata >> powerdata.csv
+        printf "start: " >> times
+        echo $starttime >> times
+        printf "end: " >> times
+        echo $endtime >> times
+	egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed -e 's/\s\+/,/g' data >> data.csv
+done
+for val2 in {1..48..1}
+do
+        tot=`expr $val1 + $val2`
+        echo $tot
+        printf 'slave-4:48\nslave-1:' > name
+        printf $val2 >> name
+        cp datafiles/HPL$tot.dat ./HPL.dat
+	./power &
+        pwrpid=$(ps -a | grep power)
+        starttime=$(date)
+        mpiexec -n $tot -f ./name ./xhpl
+        endtime=$(date)
+        kill $pwrpid
+        egrep "(..:..:..)" powerdata >> powerdata.csv
+        printf "start: " >> times
+        echo $starttime >> times
+        printf "end: " >> times
+	echo $endtime >> times
+        egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed -e 's/\s\+/,/g' data >> data.csv
+done
+for val3 in {1..48..1}
+do
+        tot=`expr $val1 + $val2 + $val3`
+        echo $tot
+        printf 'slave-4:48\nslave-1:48\nslave-2:' > name
+        printf $val3 >> name
+	cp datafiles/HPL$tot.dat ./HPL.dat
+        ./power &
+        pwrpid=$(ps -a | grep power)
+        starttime=$(date)
+        mpiexec -n $tot -f ./name ./xhpl
+        endtime=$(date)
+        kill $pwrpid
+        egrep "(..:..:..)" powerdata >> powerdata.csv
+        printf "start: " >> times
+        echo $starttime >> times
+	printf "end: " >> times
+        echo $endtime >> times
+        egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed -e 's/\s\+/,/g' data >> data.csv
+done
+for val4 in {1..48..1}
+do
+        tot=`expr $val1 + $val2 + $val3 + $val4`
+        echo $tot
+        printf 'slave-4:48\nslave-1:48\nslave-2:48\nslave-3:' > name
+	printf $val4 >> name
+        cp datafiles/HPL$tot.dat ./HPL.dat
+        ./power &
+        pwrpid=$(ps -a | grep power)
+        starttime=$(date)
+        mpiexec -n $tot -f ./name ./xhpl
+        endtime=$(date)
+        kill $pwrpid
+        egrep "(..:..:..)" powerdata >> powerdata.csv
+        printf "start: " >> times
+	echo $starttime >> times
+        printf "end: " >> times
+        echo $endtime >> times
+        egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed -e 's/\s\+/,/g' data >> data.csv
+done
