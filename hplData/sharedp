@@ -1,0 +1,54 @@
+cp datatemplate1.csv data.csv
+cp powerdatatemp.csv powerdata.csv
+rm times
+num=48
+./power &
+pwrpid=$(ps -a | grep power)
+starttime=$(date)
+mpiexec -n 48 ./xhpl
+endtime=$(date)
+kill $pwrpid
+egrep "(..:..:..)" powerdata >> powerdata.csv
+egrep "(e.00|e.01|e.02)" HPL.out > data
+sed 's/^/48 /' data > temp
+sed -e 's/\s\+/,/g' temp >> data.csv
+printf "start: " >> times
+echo $starttime >> times
+printf "end: " >> times
+echo $endtime >> times
+for val in {1..47..1}
+do
+        val1=`expr $num - $val`
+        printf 'power-1:' > name
+        printf $val1 >> name
+        printf '\npower-3:' >> name
+        printf $val >> name
+        printf '\n' >> name
+        ./power &
+        pwrpid=$(ps -a | grep power)
+        starttime=$(date)
+        mpiexec -n 48 -f ./name ./xhpl
+        endtime=$(date)
+        kill $pwrpid
+        egrep "(e.00|e.01|e.02)" HPL.out > data
+        sed "s/^/$val1 /" data > temp
+        sed -e 's/\s\+/,/g' temp >> data.csv
+        printf "start: " >> times
+        echo $starttime >> times
+        printf "end: " >> times
+        echo $endtime >> times
+done
+printf 'power-3:48' > name
+./power &
+pwrpid=$(ps -a | grep power)
+starttime=$(date)
+mpiexec -n 48 -f ./name ./xhpl
+endtime=$(date)
+kill $pwrpid
+egrep "(e.00|e.01|e.02)" HPL.out > data
+sed 's/^/0 /' data > temp
+sed -e 's/\s\+/,/g' temp >> data.csv
+printf "start: " >> times
+echo $starttime >> times
+printf "end: " >> times
+echo $endtime >> times
