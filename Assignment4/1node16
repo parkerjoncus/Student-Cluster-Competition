@@ -1,0 +1,2544 @@
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:70: read_data_sets (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:260: maybe_download (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please write your own downloading logic.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/base.py:252: wrapped_fn (from tensorflow.contrib.learn.python.learn.datasets.base) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use urllib or similar directly.
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-2/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-8/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-14/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-11/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-3/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-9/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Successfully downloaded train-images-idx3-ubyte.gzWARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+ Extracting MNIST-data-12/train-images-idx3-ubyte.gz
+9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-5/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-0/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-6/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-10/train-images-idx3-ubyte.gz
+Successfully downloadedSuccessfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-4/train-images-idx3-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-7/train-images-idx3-ubyte.gz
+ train-images-idx3-ubyte.gz 9912422 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-15/train-images-idx3-ubyte.gz
+Successfully downloaded train-images-idx3-ubyte.gz 9912422Successfully downloaded train-images-idx3-ubyte.gz 9912422 bytes.
+ bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+ExtractingWARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:262: extract_images (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-1/train-images-idx3-ubyte.gz
+ MNIST-data-13/train-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-3/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-10/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-8/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-2/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-12/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-14/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-9/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-11/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-6/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-0/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-15/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-4/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-13/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Extracting MNIST-data-5/train-labels-idx1-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-1/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-3/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-10/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-8/t10k-images-idx3-ubyte.gz
+Successfully downloaded train-labels-idx1-ubyte.gz 28881 bytes.
+Extracting MNIST-data-7/train-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:267: extract_labels (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use tf.data to implement this functionality.
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-2/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-12/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-14/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-9/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-11/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-6/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-0/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-15/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-4/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-13/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-5/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-1/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-images-idx3-ubyte.gz 1648877 bytes.
+Extracting MNIST-data-7/t10k-images-idx3-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-3/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-10/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-14/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-8/t10k-labels-idx1-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-12/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-9/t10k-labels-idx1-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-2/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-6/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-11/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-0/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-15/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-13/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-4/t10k-labels-idx1-ubyte.gz
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-5/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-1/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+Successfully downloaded t10k-labels-idx1-ubyte.gz 4542 bytes.
+Extracting MNIST-data-7/t10k-labels-idx1-ubyte.gz
+WARNING:tensorflow:From /home/cc/.local/lib/python2.7/site-packages/tensorflow/contrib/learn/python/learn/datasets/mnist.py:290: __init__ (from tensorflow.contrib.learn.python.learn.datasets.mnist) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please use alternatives such as official/mnist/dataset.py from tensorflow/models.
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+WARNING:tensorflow:From tensorflow_mnist.py:84: get_or_create_global_step (from tensorflow.contrib.framework.python.ops.variables) is deprecated and will be removed in a future version.
+Instructions for updating:
+Please switch to tf.train.get_or_create_global_step
+INFO:tensorflow:Create CheckpointSaverHook.
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.101146: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.145943: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.154129: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.208944: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.211842: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.226212: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.227147: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.259070: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.260984: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.271219: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.282060: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.283788: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.304053: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.323129: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Graph was finalized.
+INFO:tensorflow:Graph was finalized.
+2018-10-06 02:32:30.325808: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+2018-10-06 02:32:30.326232: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Running local_init_op.
+INFO:tensorflow:Done running local_init_op.
+INFO:tensorflow:Saving checkpoints for 0 into ./checkpoints/model.ckpt.
+INFO:tensorflow:loss = 2.3215952, step = 1
+INFO:tensorflow:loss = 2.3151674, step = 1
+INFO:tensorflow:loss = 2.3179882, step = 1
+INFO:tensorflow:loss = 2.3078845, step = 1
+INFO:tensorflow:loss = 2.320474, step = 1
+INFO:tensorflow:loss = 2.3332877, step = 1
+INFO:tensorflow:loss = 2.320582, step = 1
+INFO:tensorflow:loss = 2.313955, step = 1
+INFO:tensorflow:loss = 2.3119423, step = 1
+INFO:tensorflow:loss = 2.322783, step = 1
+INFO:tensorflow:loss = 2.3111548, step = 1
+INFO:tensorflow:loss = 2.3472962, step = 1
+INFO:tensorflow:loss = 2.3022292, step = 1
+INFO:tensorflow:loss = 2.3093486, step = 1
+INFO:tensorflow:loss = 2.292429, step = 1
+INFO:tensorflow:loss = 2.3373046, step = 1
+INFO:tensorflow:loss = 2.2753627, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2797816, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2679737, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.263253, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.279465, step = 11 (5.740 sec)
+INFO:tensorflow:loss = 2.2664013, step = 11 (5.740 sec)
+INFO:tensorflow:loss = 2.2876651, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2845402, step = 11 (5.735 sec)
+INFO:tensorflow:loss = 2.2678895, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2899926, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.275557, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.257698, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2632596, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2598386, step = 11 (5.742 sec)
+INFO:tensorflow:loss = 2.279333, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.2591107, step = 11 (5.741 sec)
+INFO:tensorflow:loss = 2.185537, step = 21 (5.433 sec)
+INFO:tensorflow:loss = 2.1998289, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1935003, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1940715, step = 21 (5.433 sec)
+INFO:tensorflow:loss = 2.175683, step = 21 (5.433 sec)
+INFO:tensorflow:loss = 2.213495, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1828864, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1873994, step = 21 (5.433 sec)
+INFO:tensorflow:loss = 2.2017992, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.206227, step = 21 (5.433 sec)
+INFO:tensorflow:loss = 2.1708338, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1734111, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.213619, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1773205, step = 21 (5.434 sec)
+INFO:tensorflow:loss = 2.1955397, step = 21 (5.447 sec)
+INFO:tensorflow:loss = 2.1956985, step = 21 (5.435 sec)
+INFO:tensorflow:loss = 1.8415651, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7949868, step = 31 (5.567 sec)
+INFO:tensorflow:loss = 1.7607782, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7970445, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7601631, step = 31 (5.554 sec)
+INFO:tensorflow:loss = 1.803291, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7742605, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7672137, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7774968, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7768276, step = 31 (5.567 sec)
+INFO:tensorflow:loss = 1.7417471, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.804317, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.7881147, step = 31 (5.568 sec)
+INFO:tensorflow:loss = 1.6667807, step = 31 (5.567 sec)
+INFO:tensorflow:loss = 1.7886394, step = 31 (5.567 sec)
+INFO:tensorflow:loss = 1.8341173, step = 31 (5.569 sec)
+INFO:tensorflow:loss = 1.1010646, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 0.96803737, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.1907415, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.047104, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.058365, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 0.97559655, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 0.9148574, step = 41 (5.654 sec)
+INFO:tensorflow:loss = 1.1608111, step = 41 (5.656 sec)
+INFO:tensorflow:loss = 1.2586213, step = 41 (5.656 sec)
+INFO:tensorflow:loss = 1.1699256, step = 41 (5.656 sec)
+INFO:tensorflow:loss = 1.1853881, step = 41 (5.656 sec)
+INFO:tensorflow:loss = 1.0951871, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.0856698, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.0495752, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.1651062, step = 41 (5.655 sec)
+INFO:tensorflow:loss = 1.1318271, step = 41 (5.656 sec)
+INFO:tensorflow:loss = 1.1572919, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.369763, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.2750624, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.2246727, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.247661, step = 51 (5.518 sec)
+INFO:tensorflow:loss = 1.144152, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.2598392, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.2163087, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.202275, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.1997774, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.266528, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.186075, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.1843039, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.237931, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.3533072, step = 51 (5.519 sec)
+INFO:tensorflow:loss = 1.1769769, step = 51 (5.520 sec)
+INFO:tensorflow:loss = 1.2216791, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.3702184, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.1438001, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.1921017, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.1958455, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.1843624, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.346406, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.2624593, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.3351958, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.1968719, step = 61 (5.564 sec)
+INFO:tensorflow:loss = 1.3962308, step = 61 (5.564 sec)
+INFO:tensorflow:loss = 1.1939237, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.3573881, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.3288573, step = 61 (5.564 sec)
+INFO:tensorflow:loss = 1.3237567, step = 61 (5.563 sec)
+INFO:tensorflow:loss = 1.408027, step = 61 (5.564 sec)
+INFO:tensorflow:loss = 1.0752279, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.79481405, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.9421733, step = 71 (5.384 sec)
+INFO:tensorflow:loss = 0.98617244, step = 71 (5.382 sec)
+INFO:tensorflow:loss = 0.92805064, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.99060607, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 1.0308224, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.97836715, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.9589734, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 1.0200821, step = 71 (5.384 sec)
+INFO:tensorflow:loss = 0.99918616, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 0.9313452, step = 71 (5.383 sec)
+INFO:tensorflow:loss = 1.0311038, step = 71 (5.384 sec)
+INFO:tensorflow:loss = 1.0606189, step = 71 (5.384 sec)
+INFO:tensorflow:loss = 0.91455454, step = 71 (5.384 sec)
+INFO:tensorflow:loss = 0.93486893, step = 71 (5.386 sec)
+INFO:tensorflow:loss = 0.41769424, step = 81 (5.526 sec)
+INFO:tensorflow:loss = 0.6363954, step = 81 (5.527 sec)
+INFO:tensorflow:loss = 0.47179803, step = 81 (5.527 sec)
+INFO:tensorflow:loss = 0.5231698, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.6194784, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.6464611, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.60981804, step = 81 (5.527 sec)
+INFO:tensorflow:loss = 0.5354573, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.4815382, step = 81 (5.526 sec)
+INFO:tensorflow:loss = 0.7544551, step = 81 (5.527 sec)
+INFO:tensorflow:loss = 0.36879605, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.4886784, step = 81 (5.527 sec)
+INFO:tensorflow:loss = 0.669815, step = 81 (5.526 sec)
+INFO:tensorflow:loss = 0.49504018, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 0.47691494, step = 81 (5.526 sec)
+INFO:tensorflow:loss = 0.5925116, step = 81 (5.528 sec)
+INFO:tensorflow:loss = 1.2296457, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.6130114, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.4047406, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.3178848, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.5266575, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.2880307, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.6844742, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.5652574, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.4416476, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.6902373, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.552682, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.5255258, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.6183962, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.4238269, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.1963627, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 1.4137672, step = 91 (5.313 sec)
+INFO:tensorflow:loss = 0.890561, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 1.0616198, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.79732156, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.76482195, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.66784257, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.71473616, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.7390938, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.74995315, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.8990295, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 1.0020552, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 0.6842584, step = 101 (5.318 sec)
+INFO:tensorflow:loss = 1.0312763, step = 101 (5.319 sec)
+INFO:tensorflow:loss = 0.8152307, step = 101 (5.319 sec)
+INFO:tensorflow:global_step/sec: 1.81743
+INFO:tensorflow:loss = 0.89690614, step = 101 (5.333 sec)
+INFO:tensorflow:loss = 0.6806812, step = 101 (5.321 sec)
+INFO:tensorflow:loss = 0.82175195, step = 101 (5.320 sec)
+INFO:tensorflow:loss = 0.23473646, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.12562315, step = 111 (5.261 sec)
+INFO:tensorflow:loss = 0.22274554, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.14311281, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.2277307, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.19625692, step = 111 (5.260 sec)
+INFO:tensorflow:loss = 0.17083827, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.08736134, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.18810509, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.10190847, step = 111 (5.248 sec)
+INFO:tensorflow:loss = 0.13267042, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.14193448, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.1369333, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.21775769, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.12000439, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 0.17500287, step = 111 (5.263 sec)
+INFO:tensorflow:loss = 1.6752884, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.8337417, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.6447144, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 2.1173344, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.672759, step = 121 (5.365 sec)
+INFO:tensorflow:loss = 1.7996291, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.7463607, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.5866063, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.2985387, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.7189608, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.4673477, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.9433627, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.747905, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.8671342, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.7280738, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 1.740527, step = 121 (5.366 sec)
+INFO:tensorflow:loss = 0.40859511, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.41869432, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.41592193, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.60441613, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.43365192, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.43678313, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.650326, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.50509375, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.5495228, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.35351184, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.403153, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.37102756, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.37938023, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.40450096, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.4560802, step = 131 (5.368 sec)
+INFO:tensorflow:loss = 0.4289064, step = 131 (5.369 sec)
+INFO:tensorflow:loss = 0.10896802, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.19483452, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.14756638, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.12834984, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.0782431, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.15196235, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.0625412, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.054082956, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.041368045, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.13554886, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.119558096, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.23144373, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.17761916, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.19077379, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 0.12224663, step = 141 (5.244 sec)
+INFO:tensorflow:loss = 0.11926514, step = 141 (5.245 sec)
+INFO:tensorflow:loss = 1.3645009, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.3424301, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.4022342, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.364761, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.2885315, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.2344844, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.1039748, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.4599005, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.2275008, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.0926867, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.0827965, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.3454111, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 0.95802796, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.2886423, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.4077809, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 1.316444, step = 151 (5.321 sec)
+INFO:tensorflow:loss = 0.2532661, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.09499717, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.17556566, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.025084212, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.16459587, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.23080397, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.1008462, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.17255339, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.14969593, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 0.13554426, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.17276782, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 0.15770078, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 0.097428806, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 0.10307803, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 0.14324139, step = 161 (5.309 sec)
+INFO:tensorflow:loss = 0.11801189, step = 161 (5.310 sec)
+INFO:tensorflow:loss = 2.376565, step = 171 (5.386 sec)
+INFO:tensorflow:loss = 2.1370325, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.6218684, step = 171 (5.386 sec)
+INFO:tensorflow:loss = 2.6782181, step = 171 (5.386 sec)
+INFO:tensorflow:loss = 2.5093544, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.6038263, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 3.135014, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.787177, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.1130905, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.3412333, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.412855, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.5930295, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.3724346, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.3768187, step = 171 (5.387 sec)
+INFO:tensorflow:loss = 2.0682778, step = 171 (5.388 sec)
+INFO:tensorflow:loss = 2.7783508, step = 171 (5.388 sec)
+INFO:tensorflow:loss = 0.121262655, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.1772944, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.13379395, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.10382078, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.20987684, step = 181 (5.164 sec)
+INFO:tensorflow:loss = 0.177742, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.12874638, step = 181 (5.163 sec)
+INFO:tensorflow:loss = 0.18247774, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.13413891, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.16227752, step = 181 (5.164 sec)
+INFO:tensorflow:loss = 0.10036412, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.10545997, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.16436438, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.11982378, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.106235765, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.13213663, step = 181 (5.165 sec)
+INFO:tensorflow:loss = 0.051751614, step = 191 (5.290 sec)
+INFO:tensorflow:loss = 0.06042281, step = 191 (5.290 sec)
+INFO:tensorflow:loss = 0.074610814, step = 191 (5.290 sec)
+INFO:tensorflow:loss = 0.038084663, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.062484518, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.13780132, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.15981267, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.054289684, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.031012215, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.13538145, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.06566474, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.06318966, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.17246515, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.025549192, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.1367295, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.20792608, step = 191 (5.291 sec)
+INFO:tensorflow:loss = 0.062518746, step = 201 (5.264 sec)
+INFO:tensorflow:loss = 0.13375479, step = 201 (5.266 sec)
+INFO:tensorflow:loss = 0.08052474, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.122024946, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.16247158, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.06853837, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.026489504, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.15866211, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.09526634, step = 201 (5.264 sec)
+INFO:tensorflow:loss = 0.10598648, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.06950198, step = 201 (5.265 sec)
+INFO:tensorflow:global_step/sec: 1.88749
+INFO:tensorflow:loss = 0.15780684, step = 201 (5.266 sec)
+INFO:tensorflow:loss = 0.10539299, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.073271796, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.07483175, step = 201 (5.265 sec)
+INFO:tensorflow:loss = 0.04353571, step = 201 (5.288 sec)
+INFO:tensorflow:loss = 0.055603687, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.07461885, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.03711671, step = 211 (5.353 sec)
+INFO:tensorflow:loss = 0.017556565, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.06556983, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.028620498, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.043395028, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.06695377, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.08986797, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.03048011, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.10046744, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.03397722, step = 211 (5.375 sec)
+INFO:tensorflow:loss = 0.038360734, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.048433285, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.012028014, step = 211 (5.376 sec)
+INFO:tensorflow:loss = 0.088066824, step = 211 (5.378 sec)
+INFO:tensorflow:loss = 1.3211179, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 0.97565633, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 0.86574936, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 0.7420771, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 0.48615357, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 1.357061, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 1.4185953, step = 221 (5.265 sec)
+INFO:tensorflow:loss = 1.0374672, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 0.6259995, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 1.0583451, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 1.0978863, step = 221 (5.266 sec)
+INFO:tensorflow:loss = 1.0420567, step = 221 (5.267 sec)
+INFO:tensorflow:loss = 1.4346944, step = 221 (5.267 sec)
+INFO:tensorflow:loss = 0.8700605, step = 221 (5.267 sec)
+INFO:tensorflow:loss = 1.070996, step = 221 (5.267 sec)
+INFO:tensorflow:loss = 1.520633, step = 221 (5.267 sec)
+INFO:tensorflow:loss = 0.039539825, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.072961085, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.0405345, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.0350314, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.1363949, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.026508257, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.03697906, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.15169711, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.080154076, step = 231 (5.373 sec)
+INFO:tensorflow:loss = 0.05103676, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.17127062, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.03695494, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.08130744, step = 231 (5.375 sec)
+INFO:tensorflow:loss = 0.03466002, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.054767296, step = 231 (5.374 sec)
+INFO:tensorflow:loss = 0.1175639, step = 231 (5.375 sec)
+INFO:tensorflow:loss = 0.03908557, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.069205515, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.017074032, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.11093852, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.0060483795, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.045708355, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.034343705, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.025597123, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.02722229, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.06921416, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.053038713, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.0053939903, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.016010517, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.0040528113, step = 241 (5.265 sec)
+INFO:tensorflow:loss = 0.030922072, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.18196993, step = 241 (5.264 sec)
+INFO:tensorflow:loss = 0.07925561, step = 251 (5.442 sec)
+INFO:tensorflow:loss = 0.2425967, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.0727653, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.10243105, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.11773083, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.13557965, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.09969166, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.17920282, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.11966355, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.120500356, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.03806962, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.20196937, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.20506479, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.117048986, step = 251 (5.443 sec)
+INFO:tensorflow:loss = 0.20291753, step = 251 (5.444 sec)
+INFO:tensorflow:loss = 0.116579495, step = 251 (5.444 sec)
+INFO:tensorflow:loss = 0.09404948, step = 261 (5.199 sec)
+INFO:tensorflow:loss = 0.26706332, step = 261 (5.199 sec)
+INFO:tensorflow:loss = 0.13344856, step = 261 (5.199 sec)
+INFO:tensorflow:loss = 0.15774736, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.045814537, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.32847267, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.12230542, step = 261 (5.198 sec)
+INFO:tensorflow:loss = 0.37298852, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.13507503, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.11688764, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.13703367, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.1365964, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.07905593, step = 261 (5.199 sec)
+INFO:tensorflow:loss = 0.0934544, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.060541797, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.10279801, step = 261 (5.200 sec)
+INFO:tensorflow:loss = 0.09960708, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.008890948, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.0059816563, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.0022096306, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.031188019, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.007277327, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.034948148, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.023790564, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.003830138, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.01430678, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.026982434, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.038807288, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.056400083, step = 271 (5.212 sec)
+INFO:tensorflow:loss = 0.0024376025, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.04748121, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.009107559, step = 271 (5.213 sec)
+INFO:tensorflow:loss = 0.579496, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.5110209, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.41497004, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.3472241, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.22313972, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.42795613, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.42110783, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.25878698, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.59137285, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.5057519, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.33480534, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.75740486, step = 281 (5.241 sec)
+INFO:tensorflow:loss = 0.4045065, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.40820694, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.48888835, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.41915348, step = 281 (5.240 sec)
+INFO:tensorflow:loss = 0.0035163858, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.00680847, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.013052906, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.016412979, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.057360638, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.090864316, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.13494566, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.030217487, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.018252749, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.09675226, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.015132554, step = 291 (5.271 sec)
+INFO:tensorflow:loss = 0.018657465, step = 291 (5.270 sec)
+INFO:tensorflow:loss = 0.015483968, step = 291 (5.272 sec)
+INFO:tensorflow:loss = 0.036933877, step = 291 (5.272 sec)
+INFO:tensorflow:loss = 0.06946042, step = 291 (5.272 sec)
+INFO:tensorflow:loss = 0.046109863, step = 291 (5.272 sec)
+INFO:tensorflow:loss = 0.12828507, step = 301 (5.273 sec)
+INFO:tensorflow:loss = 0.059253756, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.067244135, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.0054854066, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.038821153, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.010281546, step = 301 (5.273 sec)
+INFO:tensorflow:loss = 0.054918, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.04900731, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.003847514, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.02012935, step = 301 (5.273 sec)
+INFO:tensorflow:loss = 0.0019556452, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.0039319913, step = 301 (5.275 sec)
+INFO:tensorflow:global_step/sec: 1.88963
+INFO:tensorflow:loss = 0.03666422, step = 301 (5.273 sec)
+INFO:tensorflow:loss = 0.034417253, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.085144795, step = 301 (5.274 sec)
+INFO:tensorflow:loss = 0.18877216, step = 301 (5.298 sec)
+INFO:tensorflow:loss = 0.009265187, step = 311 (5.297 sec)
+INFO:tensorflow:loss = 0.057028655, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.09556488, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.07209501, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.046398986, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.018954819, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.05612617, step = 311 (5.275 sec)
+INFO:tensorflow:loss = 0.048215497, step = 311 (5.299 sec)
+INFO:tensorflow:loss = 0.095550306, step = 311 (5.297 sec)
+INFO:tensorflow:loss = 0.02309654, step = 311 (5.300 sec)
+INFO:tensorflow:loss = 0.006885876, step = 311 (5.299 sec)
+INFO:tensorflow:loss = 0.05242213, step = 311 (5.298 sec)
+INFO:tensorflow:loss = 0.048055645, step = 311 (5.301 sec)
+INFO:tensorflow:loss = 0.01754804, step = 311 (5.299 sec)
+INFO:tensorflow:loss = 0.002458157, step = 311 (5.299 sec)
+INFO:tensorflow:loss = 0.04487394, step = 311 (5.302 sec)
+INFO:tensorflow:loss = 0.16390419, step = 321 (5.179 sec)
+INFO:tensorflow:loss = 0.05368096, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.06522867, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.020872168, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.047762394, step = 321 (5.177 sec)
+INFO:tensorflow:loss = 0.07548675, step = 321 (5.177 sec)
+INFO:tensorflow:loss = 0.24485697, step = 321 (5.177 sec)
+INFO:tensorflow:loss = 0.09758648, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.075107165, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.26691297, step = 321 (5.175 sec)
+INFO:tensorflow:loss = 0.06406782, step = 321 (5.177 sec)
+INFO:tensorflow:loss = 0.1170028, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.04686954, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.0148536535, step = 321 (5.175 sec)
+INFO:tensorflow:loss = 0.07476252, step = 321 (5.180 sec)
+INFO:tensorflow:loss = 0.10929332, step = 321 (5.178 sec)
+INFO:tensorflow:loss = 0.23998958, step = 331 (5.328 sec)
+INFO:tensorflow:loss = 0.31520796, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.29052773, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.21965702, step = 331 (5.327 sec)
+INFO:tensorflow:loss = 0.083196945, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.6507111, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.72451323, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.60106593, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.1253932, step = 331 (5.328 sec)
+INFO:tensorflow:loss = 2.894024e-05, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.18626042, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.3692585, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.10511619, step = 331 (5.327 sec)
+INFO:tensorflow:loss = 0.30820015, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.6255898, step = 331 (5.329 sec)
+INFO:tensorflow:loss = 0.46001908, step = 331 (5.330 sec)
+INFO:tensorflow:loss = 0.010936332, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.0118104555, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.09947164, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.05648894, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.0015869025, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.0008730133, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.055862088, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.17378208, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.07963575, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.08552326, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.13659702, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.0225017, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.020350859, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.027016273, step = 341 (5.199 sec)
+INFO:tensorflow:loss = 0.020358829, step = 341 (5.198 sec)
+INFO:tensorflow:loss = 0.00956173, step = 341 (5.205 sec)
+INFO:tensorflow:loss = 0.04056396, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.020821467, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.06658531, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.22139674, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.039361354, step = 351 (5.252 sec)
+INFO:tensorflow:loss = 0.018401334, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.07800283, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.003504271, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.12464218, step = 351 (5.258 sec)
+INFO:tensorflow:loss = 0.026700018, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.013818285, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.00025647145, step = 351 (5.258 sec)
+INFO:tensorflow:loss = 0.09078856, step = 351 (5.258 sec)
+INFO:tensorflow:loss = 0.007177014, step = 351 (5.257 sec)
+INFO:tensorflow:loss = 0.02763267, step = 351 (5.258 sec)
+INFO:tensorflow:loss = 0.117249735, step = 351 (5.258 sec)
+INFO:tensorflow:loss = 0.007250865, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.033184532, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.0051361676, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.027502416, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.052510854, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.008437601, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.0049893484, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.057511795, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.08301954, step = 361 (5.163 sec)
+INFO:tensorflow:loss = 0.0025699567, step = 361 (5.163 sec)
+INFO:tensorflow:loss = 0.038445625, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.032766476, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.011629789, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.089185506, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.002779356, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.0064847358, step = 361 (5.164 sec)
+INFO:tensorflow:loss = 0.020376207, step = 371 (5.254 sec)
+INFO:tensorflow:loss = 0.01107938, step = 371 (5.254 sec)
+INFO:tensorflow:loss = 0.19958818, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.027459392, step = 371 (5.254 sec)
+INFO:tensorflow:loss = 0.002312565, step = 371 (5.254 sec)
+INFO:tensorflow:loss = 0.054709524, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.0031765623, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.021876514, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.005499729, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.0040177526, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.15486488, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.0114068845, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.0041687978, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.0015378317, step = 371 (5.255 sec)
+INFO:tensorflow:loss = 0.016062569, step = 371 (5.256 sec)
+INFO:tensorflow:loss = 0.04128916, step = 371 (5.256 sec)
+INFO:tensorflow:loss = 0.006670963, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.0073291697, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.14493474, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.033570185, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.040052414, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.016289044, step = 381 (5.263 sec)
+INFO:tensorflow:loss = 0.0019820745, step = 381 (5.262 sec)
+INFO:tensorflow:loss = 0.001659084, step = 381 (5.263 sec)
+INFO:tensorflow:loss = 0.0010429061, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.010526465, step = 381 (5.262 sec)
+INFO:tensorflow:loss = 0.007186818, step = 381 (5.263 sec)
+INFO:tensorflow:loss = 0.015831297, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.061053563, step = 381 (5.263 sec)
+INFO:tensorflow:loss = 0.0032550595, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.071883224, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.054957286, step = 381 (5.264 sec)
+INFO:tensorflow:loss = 0.008226458, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.035867237, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.059681643, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.0027199513, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.008973497, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.032311548, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.065332666, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.0025962868, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.0070516104, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.041513234, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.019231532, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.0065460587, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.018726652, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.015012388, step = 391 (5.246 sec)
+INFO:tensorflow:loss = 0.0010312242, step = 391 (5.268 sec)
+INFO:tensorflow:loss = 0.024977904, step = 391 (5.381 sec)
+INFO:tensorflow:loss = 0.0040679644, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.11539729, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.00038410194, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.042120863, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.014645854, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.029273348, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.00024433143, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.020019455, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.020435812, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.0035362106, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.094721735, step = 401 (5.165 sec)
+INFO:tensorflow:loss = 0.004179757, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.0037048217, step = 401 (5.300 sec)
+INFO:tensorflow:loss = 0.07104106, step = 401 (5.300 sec)
+INFO:tensorflow:global_step/sec: 1.90516
+INFO:tensorflow:loss = 0.003190487, step = 401 (5.278 sec)
+INFO:tensorflow:loss = 0.008770734, step = 401 (5.316 sec)
+INFO:tensorflow:loss = 0.03132309, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.03127305, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.04801579, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.12737186, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.07853662, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.06247277, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.059240166, step = 411 (5.153 sec)
+INFO:tensorflow:loss = 0.013230817, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.041855443, step = 411 (5.169 sec)
+INFO:tensorflow:loss = 0.09638019, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.17129204, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.082211435, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.054613933, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.06209236, step = 411 (5.170 sec)
+INFO:tensorflow:loss = 0.13787676, step = 411 (5.171 sec)
+INFO:tensorflow:loss = 0.014965942, step = 411 (5.171 sec)
+INFO:tensorflow:loss = 0.0007444127, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.003543691, step = 421 (5.281 sec)
+INFO:tensorflow:loss = 0.011759221, step = 421 (5.281 sec)
+INFO:tensorflow:loss = 0.006414335, step = 421 (5.281 sec)
+INFO:tensorflow:loss = 0.00094973267, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.0022971288, step = 421 (5.281 sec)
+INFO:tensorflow:loss = 0.019490048, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.00626968, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.067185774, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.0031163583, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.01352899, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.1150001, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.039104335, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.03084212, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.13282947, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.1459791, step = 421 (5.280 sec)
+INFO:tensorflow:loss = 0.023800874, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.3186402, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.086233616, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.034090746, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.21255913, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.11261531, step = 431 (5.374 sec)
+INFO:tensorflow:loss = 0.041138105, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.37182674, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.1020576, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.10617055, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.1613574, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.10535819, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.12008711, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.2170878, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.03764898, step = 431 (5.375 sec)
+INFO:tensorflow:loss = 0.042941913, step = 431 (5.376 sec)
+INFO:tensorflow:loss = 0.035793584, step = 441 (5.326 sec)
+INFO:tensorflow:loss = 0.0013369623, step = 441 (5.326 sec)
+INFO:tensorflow:loss = 0.15996343, step = 441 (5.326 sec)
+INFO:tensorflow:loss = 0.18804623, step = 441 (5.327 sec)
+INFO:tensorflow:loss = 0.173216, step = 441 (5.327 sec)
+INFO:tensorflow:loss = 0.122622244, step = 441 (5.328 sec)
+INFO:tensorflow:loss = 0.000648319, step = 441 (5.328 sec)
+INFO:tensorflow:loss = 0.037193898, step = 441 (5.329 sec)
+INFO:tensorflow:loss = 0.012857126, step = 441 (5.329 sec)
+INFO:tensorflow:loss = 0.094630525, step = 441 (5.340 sec)
+INFO:tensorflow:loss = 0.04004282, step = 441 (5.342 sec)
+INFO:tensorflow:loss = 0.02476107, step = 441 (5.344 sec)
+INFO:tensorflow:loss = 0.0016789675, step = 441 (5.353 sec)
+INFO:tensorflow:loss = 0.17674938, step = 441 (5.359 sec)
+INFO:tensorflow:loss = 0.041981712, step = 441 (5.394 sec)
+INFO:tensorflow:loss = 0.0117766205, step = 441 (5.407 sec)
+INFO:tensorflow:loss = 0.05307978, step = 451 (5.320 sec)
+INFO:tensorflow:loss = 0.15204696, step = 451 (5.353 sec)
+INFO:tensorflow:loss = 0.028235044, step = 451 (5.352 sec)
+INFO:tensorflow:loss = 0.023284366, step = 451 (5.351 sec)
+INFO:tensorflow:loss = 0.104944445, step = 451 (5.352 sec)
+INFO:tensorflow:loss = 0.054065205, step = 451 (5.352 sec)
+INFO:tensorflow:loss = 0.0019612396, step = 451 (5.340 sec)
+INFO:tensorflow:loss = 0.08008263, step = 451 (5.273 sec)
+INFO:tensorflow:loss = 0.0006256329, step = 451 (5.354 sec)
+INFO:tensorflow:loss = 0.267332, step = 451 (5.337 sec)
+INFO:tensorflow:loss = 0.022546664, step = 451 (5.351 sec)
+INFO:tensorflow:loss = 0.14949767, step = 451 (5.354 sec)
+INFO:tensorflow:loss = 0.039270464, step = 451 (5.295 sec)
+INFO:tensorflow:loss = 0.11073367, step = 451 (5.327 sec)
+INFO:tensorflow:loss = 0.0003007396, step = 451 (5.353 sec)
+INFO:tensorflow:loss = 0.041797977, step = 451 (5.363 sec)
+INFO:tensorflow:loss = 0.004035243, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.08318749, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.015149951, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.0015129164, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.055476088, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.0025115542, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.010271248, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.0038428265, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.0002055317, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.021790132, step = 461 (5.346 sec)
+INFO:tensorflow:loss = 0.003615293, step = 461 (5.363 sec)
+INFO:tensorflow:loss = 0.03372158, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.0098164305, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.003995808, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.011388543, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.020680506, step = 461 (5.371 sec)
+INFO:tensorflow:loss = 0.029686926, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.014344299, step = 471 (5.380 sec)
+INFO:tensorflow:loss = 0.0030752742, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.0004582989, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.01941884, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.00067904405, step = 471 (5.380 sec)
+INFO:tensorflow:loss = 0.009397923, step = 471 (5.380 sec)
+INFO:tensorflow:loss = 0.015742052, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.0013805383, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 4.921918e-05, step = 471 (5.380 sec)
+INFO:tensorflow:loss = 0.054131564, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.036915317, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.0035464054, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.00039208622, step = 471 (5.380 sec)
+INFO:tensorflow:loss = 0.0069866683, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.0012800635, step = 471 (5.379 sec)
+INFO:tensorflow:loss = 0.025987828, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.002949305, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.07613763, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.0018999416, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.010920841, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.008994335, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.068105794, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.000119607656, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.04234772, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.032736477, step = 481 (5.245 sec)
+INFO:tensorflow:loss = 0.00790007, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.12306014, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.0010943185, step = 481 (5.245 sec)
+INFO:tensorflow:loss = 1.7773768e-06, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.007795182, step = 481 (5.246 sec)
+INFO:tensorflow:loss = 0.00018434571, step = 481 (5.247 sec)
+INFO:tensorflow:loss = 0.0062396545, step = 491 (5.325 sec)
+INFO:tensorflow:loss = 0.002367533, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.023022873, step = 491 (5.326 sec)
+INFO:tensorflow:loss = 0.005803751, step = 491 (5.326 sec)
+INFO:tensorflow:loss = 0.00039331184, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.0031084926, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.046827372, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.018984174, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.087394305, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.07822317, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.025946591, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.00029188505, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.07642742, step = 491 (5.327 sec)
+INFO:tensorflow:loss = 0.0025170485, step = 491 (5.328 sec)
+INFO:tensorflow:loss = 0.11399753, step = 491 (5.329 sec)
+INFO:tensorflow:loss = 0.06992463, step = 491 (5.344 sec)
+INFO:tensorflow:loss = 0.028739981, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.18171956, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.20379455, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.13430306, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.09760697, step = 501 (5.331 sec)
+INFO:tensorflow:loss = 0.0014357264, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.13058719, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.097737454, step = 501 (5.333 sec)
+INFO:tensorflow:loss = 0.122509286, step = 501 (5.333 sec)
+INFO:tensorflow:loss = 0.04191891, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.054053865, step = 501 (5.331 sec)
+INFO:tensorflow:loss = 0.039287377, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.046681814, step = 501 (5.332 sec)
+INFO:tensorflow:loss = 0.08330665, step = 501 (5.333 sec)
+INFO:tensorflow:loss = 0.047700487, step = 501 (5.333 sec)
+INFO:tensorflow:global_step/sec: 1.88111
+INFO:tensorflow:loss = 0.131141, step = 501 (5.317 sec)
+INFO:tensorflow:loss = 0.02504271, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.0058173765, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.06327799, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.006698773, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.0026147068, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.0009632466, step = 511 (5.329 sec)
+INFO:tensorflow:loss = 0.011849207, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.0047680475, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.011728444, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.00014117605, step = 511 (5.329 sec)
+INFO:tensorflow:loss = 0.029199095, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.0025835866, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.001772849, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.077854246, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.10608476, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.034648336, step = 511 (5.330 sec)
+INFO:tensorflow:loss = 0.047855355, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.05333051, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.038926575, step = 521 (5.308 sec)
+INFO:tensorflow:loss = 0.05696736, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.048625622, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.0032266201, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.039311178, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.06693595, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.05546611, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.074325554, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.07526526, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.014872675, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.015857868, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.20401105, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.11026191, step = 521 (5.309 sec)
+INFO:tensorflow:loss = 0.08157244, step = 521 (5.324 sec)
+INFO:tensorflow:loss = 0.00023747215, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.01243493, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.0015630731, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.14853138, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.002373347, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.0025545403, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.06407969, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.039815012, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.0022819114, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.038773954, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.036500074, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.00017828475, step = 531 (5.257 sec)
+INFO:tensorflow:loss = 0.00030957544, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.020650089, step = 531 (5.272 sec)
+INFO:tensorflow:loss = 0.0073367413, step = 531 (5.273 sec)
+INFO:tensorflow:loss = 0.0063672774, step = 531 (5.273 sec)
+INFO:tensorflow:loss = 0.08044392, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.051862203, step = 541 (5.222 sec)
+INFO:tensorflow:loss = 0.06295662, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.0020828831, step = 541 (5.222 sec)
+INFO:tensorflow:loss = 0.03901296, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.006469813, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.002673593, step = 541 (5.222 sec)
+INFO:tensorflow:loss = 0.13911825, step = 541 (5.222 sec)
+INFO:tensorflow:loss = 0.2919197, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.08376073, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.018690137, step = 541 (5.223 sec)
+INFO:tensorflow:loss = 0.077632785, step = 541 (5.225 sec)
+INFO:tensorflow:loss = 6.3676445e-05, step = 541 (5.224 sec)
+INFO:tensorflow:loss = 0.0064672907, step = 541 (5.238 sec)
+INFO:tensorflow:loss = 0.0020067105, step = 541 (5.251 sec)
+INFO:tensorflow:loss = 0.012780998, step = 541 (5.303 sec)
+INFO:tensorflow:loss = 0.1262196, step = 551 (5.455 sec)
+INFO:tensorflow:loss = 0.088290565, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.12196361, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.09012822, step = 551 (5.507 sec)
+INFO:tensorflow:loss = 0.011194452, step = 551 (5.520 sec)
+INFO:tensorflow:loss = 0.060179397, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.050196216, step = 551 (5.536 sec)
+INFO:tensorflow:loss = 0.03728113, step = 551 (5.536 sec)
+INFO:tensorflow:loss = 0.0036744177, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.0778949, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.053378724, step = 551 (5.533 sec)
+INFO:tensorflow:loss = 0.00014929849, step = 551 (5.536 sec)
+INFO:tensorflow:loss = 0.09231565, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.03140179, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.036042236, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.003475353, step = 551 (5.535 sec)
+INFO:tensorflow:loss = 0.0071084406, step = 561 (5.399 sec)
+INFO:tensorflow:loss = 2.8202596e-05, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.034808952, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.05130262, step = 561 (5.399 sec)
+INFO:tensorflow:loss = 0.0009366618, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.053003978, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.011247493, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.001979278, step = 561 (5.399 sec)
+INFO:tensorflow:loss = 0.00065595185, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.05972265, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.0005570693, step = 561 (5.399 sec)
+INFO:tensorflow:loss = 0.0073196674, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.061079994, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.08848199, step = 561 (5.400 sec)
+INFO:tensorflow:loss = 0.00087928155, step = 561 (5.401 sec)
+INFO:tensorflow:loss = 0.00022434894, step = 561 (5.418 sec)
+INFO:tensorflow:loss = 0.0058765896, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.00024020381, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.00019284405, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.06376603, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.18487455, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.35146725, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.0009657986, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.072188824, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.12426488, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.29233614, step = 571 (5.253 sec)
+INFO:tensorflow:loss = 0.04810538, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.08798954, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.003137252, step = 571 (5.235 sec)
+INFO:tensorflow:loss = 0.10981534, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.25169355, step = 571 (5.255 sec)
+INFO:tensorflow:loss = 0.11615159, step = 571 (5.254 sec)
+INFO:tensorflow:loss = 0.002356364, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0069111395, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.022498317, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.017058153, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0012574584, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.06220046, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0011135029, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0050260215, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.00080834515, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 1.9240551e-05, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0016536394, step = 581 (5.263 sec)
+INFO:tensorflow:loss = 0.00018937908, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0026837094, step = 581 (5.263 sec)
+INFO:tensorflow:loss = 0.07066338, step = 581 (5.264 sec)
+INFO:tensorflow:loss = 0.0063767703, step = 581 (5.267 sec)
+INFO:tensorflow:loss = 0.10935304, step = 581 (5.287 sec)
+INFO:tensorflow:loss = 0.018123131, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.02479192, step = 591 (5.337 sec)
+INFO:tensorflow:loss = 6.726726e-05, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.0004921417, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.002846255, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.0010477438, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.006401695, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.00020367309, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.017758343, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 0.026355, step = 591 (5.333 sec)
+INFO:tensorflow:loss = 2.7225193e-05, step = 591 (5.313 sec)
+INFO:tensorflow:loss = 0.0014339815, step = 591 (5.337 sec)
+INFO:tensorflow:loss = 0.054401822, step = 591 (5.337 sec)
+INFO:tensorflow:loss = 0.008177344, step = 591 (5.336 sec)
+INFO:tensorflow:loss = 4.1036083e-06, step = 591 (5.339 sec)
+INFO:tensorflow:loss = 0.1314382, step = 591 (5.337 sec)
+INFO:tensorflow:loss = 0.122401334, step = 601 (5.250 sec)
+INFO:tensorflow:loss = 0.038851872, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.05652382, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.0018532887, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.013734461, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.06843423, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.0007264494, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.0063354843, step = 601 (5.250 sec)
+INFO:tensorflow:loss = 0.014783028, step = 601 (5.250 sec)
+INFO:tensorflow:loss = 0.10566358, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.08484506, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.0006552547, step = 601 (5.251 sec)
+INFO:tensorflow:loss = 0.07008269, step = 601 (5.249 sec)
+INFO:tensorflow:loss = 0.0980369, step = 601 (5.251 sec)
+INFO:tensorflow:global_step/sec: 1.88063
+INFO:tensorflow:loss = 0.0071932958, step = 601 (5.252 sec)
+INFO:tensorflow:loss = 0.18882942, step = 601 (5.275 sec)
+INFO:tensorflow:loss = 0.019867027, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.008232429, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 6.0355585e-05, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.008563253, step = 611 (5.303 sec)
+INFO:tensorflow:loss = 0.11390398, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.05246321, step = 611 (5.303 sec)
+INFO:tensorflow:loss = 9.2175915e-06, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.00124351, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.028607111, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.014835929, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.0031517285, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.0003392276, step = 611 (5.279 sec)
+INFO:tensorflow:loss = 0.04292181, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 8.433215e-05, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.062329493, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.0006450716, step = 611 (5.304 sec)
+INFO:tensorflow:loss = 0.00041761345, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.026610283, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.079058416, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.006961818, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.0032291783, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.00065882446, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.0068618804, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 4.6210203e-05, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.0009143685, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.057301074, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.22135843, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.0006216138, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.01922461, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.011105811, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 0.011951616, step = 621 (5.255 sec)
+INFO:tensorflow:loss = 1.8433784e-05, step = 621 (5.256 sec)
+INFO:tensorflow:loss = 0.00019055612, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.00012825658, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.01413377, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.008941306, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 4.0165265e-05, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.20709158, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.0004185457, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.02482616, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.04144924, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.029290985, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.004558217, step = 631 (5.227 sec)
+INFO:tensorflow:loss = 0.07035298, step = 631 (5.227 sec)
+INFO:tensorflow:loss = 0.032595884, step = 631 (5.226 sec)
+INFO:tensorflow:loss = 0.002921407, step = 631 (5.227 sec)
+INFO:tensorflow:loss = 0.0022710166, step = 631 (5.227 sec)
+INFO:tensorflow:loss = 0.007590002, step = 631 (5.266 sec)
+INFO:tensorflow:loss = 0.03435424, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.025336264, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.00048497782, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.07008375, step = 641 (5.251 sec)
+INFO:tensorflow:loss = 0.027025992, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.004532509, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.019979395, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.0067613185, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.048374277, step = 641 (5.251 sec)
+INFO:tensorflow:loss = 0.007971822, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.02716705, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.00029254603, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.0013909668, step = 641 (5.212 sec)
+INFO:tensorflow:loss = 0.042749375, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 4.5817225e-05, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.0015554044, step = 641 (5.252 sec)
+INFO:tensorflow:loss = 0.03077087, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.052831326, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.010130364, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.09208109, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.031448834, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.16174702, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.003665645, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.041527744, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.045138918, step = 651 (5.276 sec)
+INFO:tensorflow:loss = 0.008712655, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.15540479, step = 651 (5.276 sec)
+INFO:tensorflow:loss = 0.10812212, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.12161867, step = 651 (5.276 sec)
+INFO:tensorflow:loss = 0.0038112495, step = 651 (5.276 sec)
+INFO:tensorflow:loss = 0.040271863, step = 651 (5.276 sec)
+INFO:tensorflow:loss = 0.0036182923, step = 651 (5.275 sec)
+INFO:tensorflow:loss = 0.08393815, step = 661 (5.282 sec)
+INFO:tensorflow:loss = 0.022554535, step = 661 (5.282 sec)
+INFO:tensorflow:loss = 0.0030990273, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.03923611, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.0010439724, step = 661 (5.282 sec)
+INFO:tensorflow:loss = 0.007300633, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.092314586, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.026988618, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.06267155, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.013956373, step = 661 (5.282 sec)
+INFO:tensorflow:loss = 0.036140088, step = 661 (5.282 sec)
+INFO:tensorflow:loss = 0.022026312, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.00046648603, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.036690596, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.0008135153, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.044578064, step = 661 (5.283 sec)
+INFO:tensorflow:loss = 0.103693716, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 1.2426879e-05, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.006691305, step = 671 (5.196 sec)
+INFO:tensorflow:loss = 0.00752929, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 1.342205e-05, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.0043435176, step = 671 (5.196 sec)
+INFO:tensorflow:loss = 2.0423897e-05, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.016547346, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.000681943, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.0024878772, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.000426386, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.00034718655, step = 671 (5.196 sec)
+INFO:tensorflow:loss = 0.00023597234, step = 671 (5.196 sec)
+INFO:tensorflow:loss = 0.048583474, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.00022557004, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 0.023737572, step = 671 (5.197 sec)
+INFO:tensorflow:loss = 1.0271313, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.15434352, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 1.9633194, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.36549062, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.46499842, step = 681 (5.268 sec)
+INFO:tensorflow:loss = 0.5081205, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.86359453, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.21341248, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 1.6369336, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.7682068, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.50674736, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.8742783, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.46883366, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 1.3411934, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.33603844, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 0.5504411, step = 681 (5.269 sec)
+INFO:tensorflow:loss = 1.2182531e-06, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.001226865, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.07030001, step = 691 (5.291 sec)
+INFO:tensorflow:loss = 0.013806349, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 5.8815585e-05, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.0006429188, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.0009594671, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.2098441, step = 691 (5.291 sec)
+INFO:tensorflow:loss = 1.8437511e-05, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.0005258045, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.0023269157, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.045481764, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.004253636, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 1.911087e-05, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.101371914, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 0.0019517731, step = 691 (5.292 sec)
+INFO:tensorflow:loss = 4.3651344e-05, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 0.00068935094, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 0.05459948, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 0.00943952, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 9.876763e-05, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 1.9549361e-06, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 8.344477e-07, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 2.0384725e-07, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 0.029897843, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 6.955563e-05, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 3.0160993e-05, step = 701 (5.292 sec)
+INFO:tensorflow:loss = 0.0002520775, step = 701 (5.293 sec)
+INFO:tensorflow:loss = 0.004731157, step = 701 (5.293 sec)
+INFO:tensorflow:loss = 1.0628897e-05, step = 701 (5.293 sec)
+INFO:tensorflow:global_step/sec: 1.89951
+INFO:tensorflow:loss = 0.08507054, step = 701 (5.293 sec)
+INFO:tensorflow:loss = 0.014294597, step = 701 (5.322 sec)
+INFO:tensorflow:loss = 0.0020007608, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.009915113, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 0.11139562, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 1.33725325e-05, step = 711 (5.480 sec)
+INFO:tensorflow:loss = 0.09503627, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.003489439, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 1.3716775e-05, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 0.011386129, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.012365422, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 1.1477468e-05, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.00020237894, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 0.001008369, step = 711 (5.481 sec)
+INFO:tensorflow:loss = 0.00037235115, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.04268214, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.02394889, step = 711 (5.482 sec)
+INFO:tensorflow:loss = 0.0062981104, step = 711 (5.453 sec)
+INFO:tensorflow:loss = 0.00521999, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.0039407867, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.13186999, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.00055841444, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 3.1960328e-05, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.017428307, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.000112235175, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.0032377916, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.15802345, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.045495883, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 4.775132e-05, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.07034277, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.27861884, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.00086181774, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.0074166213, step = 721 (5.245 sec)
+INFO:tensorflow:loss = 0.05379574, step = 721 (5.244 sec)
+INFO:tensorflow:loss = 0.074827276, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.13006014, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.020518372, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.07844421, step = 731 (5.233 sec)
+INFO:tensorflow:loss = 0.00810066, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.06829368, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.108588696, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.002613633, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.022833228, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.010132215, step = 731 (5.233 sec)
+INFO:tensorflow:loss = 0.012937316, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.012631792, step = 731 (5.233 sec)
+INFO:tensorflow:loss = 0.007604972, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.039628852, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.0030091493, step = 731 (5.234 sec)
+INFO:tensorflow:loss = 0.025804441, step = 731 (5.235 sec)
+INFO:tensorflow:loss = 0.05304818, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 8.335386e-05, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.016282788, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.0042680204, step = 741 (5.277 sec)
+INFO:tensorflow:loss = 0.013082337, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.00011526901, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.051695045, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.03231547, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.00022988403, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.005463065, step = 741 (5.278 sec)
+INFO:tensorflow:loss = 0.052518792, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.015471822, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 6.3193846e-05, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.030878833, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.00064575917, step = 741 (5.279 sec)
+INFO:tensorflow:loss = 0.002846106, step = 741 (5.280 sec)
+INFO:tensorflow:loss = 0.0027509704, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 5.3958174e-06, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 0.037532173, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 0.00061544776, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.00149924, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.0002986139, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 0.0039581303, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 0.016007239, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.087516166, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 6.5481413e-06, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.09454504, step = 751 (5.340 sec)
+INFO:tensorflow:loss = 0.012778883, step = 751 (5.342 sec)
+INFO:tensorflow:loss = 0.05927224, step = 751 (5.342 sec)
+INFO:tensorflow:loss = 0.0015375811, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.004088191, step = 751 (5.341 sec)
+INFO:tensorflow:loss = 0.037774097, step = 751 (5.342 sec)
+INFO:tensorflow:loss = 0.0015595608, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.21260022, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.03467721, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.058717903, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.15105444, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.026364574, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.045333456, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.034802195, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.00016127535, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.21580887, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 6.726274e-06, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 1.2472441e-05, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.03694215, step = 761 (5.295 sec)
+INFO:tensorflow:loss = 0.000284318, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.022434153, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.03321252, step = 761 (5.296 sec)
+INFO:tensorflow:loss = 0.060079202, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.087899506, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.08629563, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.28582856, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.071499914, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.025919741, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.0027740255, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.31779906, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.060546435, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.19553593, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.11798409, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.0908173, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.18240345, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.07246162, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.06769443, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.0011870979, step = 771 (5.231 sec)
+INFO:tensorflow:loss = 0.0011785077, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.00023389992, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.0008489056, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.0005522542, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.0003134159, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.0056112134, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.00063694565, step = 781 (5.327 sec)
+INFO:tensorflow:loss = 0.008182689, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.11361709, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.0005776029, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.008703313, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.00071406143, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 5.578906e-07, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 0.027671874, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 6.136096e-05, step = 781 (5.328 sec)
+INFO:tensorflow:loss = 6.484529e-05, step = 781 (5.327 sec)
+INFO:tensorflow:loss = 0.008817243, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.17076804, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.12732129, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.087680556, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.15068318, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.0019426283, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.07779507, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.08949703, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.008844594, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.0008309385, step = 791 (5.250 sec)
+INFO:tensorflow:loss = 0.0009289645, step = 791 (5.250 sec)
+INFO:tensorflow:loss = 0.008828542, step = 791 (5.250 sec)
+INFO:tensorflow:loss = 0.0015179873, step = 791 (5.251 sec)
+INFO:tensorflow:loss = 0.01637618, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.033418834, step = 791 (5.249 sec)
+INFO:tensorflow:loss = 0.0030803254, step = 791 (5.250 sec)
+INFO:tensorflow:loss = 0.0011992886, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.00017791978, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.3401232, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 5.9604513e-08, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.060741737, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.05848823, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.0055247582, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.2467286, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.70300347, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.024099007, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.0006127856, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.24070993, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.1176891, step = 801 (5.279 sec)
+INFO:tensorflow:loss = 0.018598124, step = 801 (5.280 sec)
+INFO:tensorflow:loss = 0.044003535, step = 801 (5.281 sec)
+INFO:tensorflow:global_step/sec: 1.8881
+INFO:tensorflow:loss = 0.00025477583, step = 801 (5.282 sec)
+INFO:tensorflow:loss = 0.00020591017, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 8.24421e-06, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.042832345, step = 811 (5.220 sec)
+INFO:tensorflow:loss = 0.025128376, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.0069412873, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 4.1279975e-05, step = 811 (5.220 sec)
+INFO:tensorflow:loss = 0.14148454, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.08523702, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.010094834, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.01844329, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.032282535, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.00061887974, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.00129549, step = 811 (5.220 sec)
+INFO:tensorflow:loss = 3.424706e-06, step = 811 (5.221 sec)
+INFO:tensorflow:loss = 0.0032628977, step = 811 (5.220 sec)
+INFO:tensorflow:loss = 8.2968654e-07, step = 811 (5.222 sec)
+INFO:tensorflow:loss = 1.738034e-06, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.0016636653, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.082843736, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.192607, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.02217149, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.01507561, step = 821 (5.275 sec)
+INFO:tensorflow:loss = 0.18821092, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.0030456502, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 2.792862e-06, step = 821 (5.277 sec)
+INFO:tensorflow:loss = 0.0021236918, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.048376147, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 3.3341232e-06, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.0055265855, step = 821 (5.277 sec)
+INFO:tensorflow:loss = 0.07707051, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.067823835, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 4.2847678e-05, step = 821 (5.276 sec)
+INFO:tensorflow:loss = 0.0018912987, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.00019932617, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.0033893355, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.002488424, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.055258542, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.00087124, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.021092892, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.03374324, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.030446958, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.15499404, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.037497506, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.09221728, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.0026072117, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.0046915053, step = 831 (5.162 sec)
+INFO:tensorflow:loss = 0.096836254, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.02206273, step = 831 (5.163 sec)
+INFO:tensorflow:loss = 0.00033804905, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.09412644, step = 841 (5.166 sec)
+INFO:tensorflow:loss = 0.060630158, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.0025208031, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.08199563, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.0062090512, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.00045657397, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.008042322, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.05777064, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.006096814, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.046872586, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.03555092, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.040561426, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.023812138, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 8.05778e-05, step = 841 (5.167 sec)
+INFO:tensorflow:loss = 0.05780971, step = 841 (5.168 sec)
+INFO:tensorflow:loss = 4.894587e-05, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.361652, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.005441897, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.07876757, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.0018870712, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 2.6583504e-07, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.016997574, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.059286218, step = 851 (5.312 sec)
+INFO:tensorflow:loss = 0.001993128, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.13538526, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.03760161, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.0016220085, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.0002251789, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.12710018, step = 851 (5.312 sec)
+INFO:tensorflow:loss = 0.0045706783, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.003380327, step = 851 (5.313 sec)
+INFO:tensorflow:loss = 0.0060726656, step = 861 (5.158 sec)
+INFO:tensorflow:loss = 0.040686093, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 3.0710376e-05, step = 861 (5.158 sec)
+INFO:tensorflow:loss = 0.003387416, step = 861 (5.158 sec)
+INFO:tensorflow:loss = 0.045636624, step = 861 (5.158 sec)
+INFO:tensorflow:loss = 0.050399367, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.06592724, step = 861 (5.158 sec)
+INFO:tensorflow:loss = 0.002375678, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.012759518, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.09183138, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.013000474, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 2.0736015e-05, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.022798205, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 1.7215823e-05, step = 861 (5.159 sec)
+INFO:tensorflow:loss = 0.008681205, step = 861 (5.160 sec)
+INFO:tensorflow:loss = 0.042303074, step = 861 (5.168 sec)
+INFO:tensorflow:loss = 0.010017353, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.00015834504, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.0019114726, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.013093705, step = 871 (5.315 sec)
+INFO:tensorflow:loss = 0.00044323143, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.14071684, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 7.152556e-09, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 1.3485609e-05, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.0, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 4.3290667e-05, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.054696593, step = 871 (5.323 sec)
+INFO:tensorflow:loss = 0.017667394, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.0010377939, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 0.08896865, step = 871 (5.325 sec)
+INFO:tensorflow:loss = 0.0075017517, step = 871 (5.324 sec)
+INFO:tensorflow:loss = 2.7291804e-05, step = 871 (5.325 sec)
+INFO:tensorflow:loss = 0.014709209, step = 881 (5.327 sec)
+INFO:tensorflow:loss = 0.012271248, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 5.368967e-06, step = 881 (5.327 sec)
+INFO:tensorflow:loss = 0.23099308, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.022511804, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.0001361667, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.00018872764, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.0843233, step = 881 (5.326 sec)
+INFO:tensorflow:loss = 0.0007477425, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 2.106242e-06, step = 881 (5.327 sec)
+INFO:tensorflow:loss = 0.08111527, step = 881 (5.327 sec)
+INFO:tensorflow:loss = 0.013021184, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.10645496, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 0.0040003327, step = 881 (5.327 sec)
+INFO:tensorflow:loss = 0.10219625, step = 881 (5.329 sec)
+INFO:tensorflow:loss = 0.009237155, step = 881 (5.328 sec)
+INFO:tensorflow:loss = 6.7744964e-05, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 4.813121e-06, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.00022480502, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.09207607, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.07581723, step = 891 (5.248 sec)
+INFO:tensorflow:loss = 1.2325514e-06, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 1.0478042e-06, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.0096799405, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.0015681945, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.018152213, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.00012456953, step = 891 (5.250 sec)
+INFO:tensorflow:loss = 0.00017253536, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.0017847492, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.00079573726, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 1.7075356e-05, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 1.932197e-06, step = 891 (5.249 sec)
+INFO:tensorflow:loss = 0.11264015, step = 901 (5.224 sec)
+INFO:tensorflow:loss = 3.0433495e-05, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.00021375415, step = 901 (5.224 sec)
+INFO:tensorflow:loss = 1.6345117e-05, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.00068080326, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 4.277613e-06, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.0025557217, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.005582707, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.021051163, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.039144978, step = 901 (5.224 sec)
+INFO:tensorflow:loss = 0.00074367615, step = 901 (5.225 sec)
+INFO:tensorflow:loss = 0.017446056, step = 901 (5.224 sec)
+INFO:tensorflow:loss = 9.1310954e-05, step = 901 (5.224 sec)
+INFO:tensorflow:global_step/sec: 1.90751
+INFO:tensorflow:loss = 0.015112196, step = 901 (5.226 sec)
+INFO:tensorflow:loss = 0.0025393462, step = 901 (5.226 sec)
+INFO:tensorflow:loss = 0.010349048, step = 901 (5.243 sec)
+INFO:tensorflow:loss = 2.1815214e-07, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.0012662399, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.046957694, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.005100402, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.0049462123, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.04317921, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.003648596, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.0035229146, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.00046024003, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.0008463617, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.031888995, step = 911 (5.433 sec)
+INFO:tensorflow:loss = 0.0799059, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.00011544505, step = 911 (5.434 sec)
+INFO:tensorflow:loss = 0.00017830452, step = 911 (5.432 sec)
+INFO:tensorflow:loss = 0.0011956645, step = 911 (5.416 sec)
+INFO:tensorflow:loss = 0.00018652067, step = 911 (5.435 sec)
+INFO:tensorflow:loss = 0.112082094, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.13233252, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 9.2847695e-06, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.036526024, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 6.186791e-07, step = 921 (5.209 sec)
+INFO:tensorflow:loss = 0.00025001165, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.019820156, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.06285154, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.005755889, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 8.274871e-05, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.0016042725, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 0.00075007026, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 8.151801e-06, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 3.0054043e-05, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 3.0565498e-05, step = 921 (5.209 sec)
+INFO:tensorflow:loss = 9.782594e-06, step = 921 (5.210 sec)
+INFO:tensorflow:loss = 3.6792797e-05, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 0.16778372, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 0.004091128, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 3.3660717e-06, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 8.447537e-06, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 0.0005334717, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 0.00063979597, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 2.788082e-05, step = 931 (5.427 sec)
+INFO:tensorflow:loss = 0.0011199887, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 0.07620645, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 5.280162e-05, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 5.686168e-07, step = 931 (5.426 sec)
+INFO:tensorflow:loss = 5.2047424e-05, step = 931 (5.428 sec)
+INFO:tensorflow:loss = 0.008502396, step = 931 (5.444 sec)
+INFO:tensorflow:loss = 0.0017854023, step = 931 (5.450 sec)
+INFO:tensorflow:loss = 0.14305156, step = 931 (5.428 sec)
+INFO:tensorflow:loss = 0.06709764, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 7.444331e-05, step = 941 (5.387 sec)
+INFO:tensorflow:loss = 0.0002484126, step = 941 (5.410 sec)
+INFO:tensorflow:loss = 8.312827e-05, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.09449483, step = 941 (5.393 sec)
+INFO:tensorflow:loss = 2.056603e-05, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.10844691, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.050245658, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.004037799, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 4.854782e-06, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.05351359, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.0038208603, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.050028805, step = 941 (5.412 sec)
+INFO:tensorflow:loss = 0.0018577218, step = 941 (5.411 sec)
+INFO:tensorflow:loss = 0.062654346, step = 941 (5.410 sec)
+INFO:tensorflow:loss = 0.10737342, step = 941 (5.410 sec)
+INFO:tensorflow:loss = 0.0030676038, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.079904884, step = 951 (5.361 sec)
+INFO:tensorflow:loss = 0.026145225, step = 951 (5.361 sec)
+INFO:tensorflow:loss = 0.00034478857, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.019604787, step = 951 (5.361 sec)
+INFO:tensorflow:loss = 9.777163e-05, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.053263728, step = 951 (5.361 sec)
+INFO:tensorflow:loss = 0.01677758, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.12888552, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.00022513028, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 6.297576e-06, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.056482736, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.0012340923, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.0013927763, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.0017229219, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.07017169, step = 951 (5.362 sec)
+INFO:tensorflow:loss = 0.00024152939, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.003378465, step = 961 (5.282 sec)
+INFO:tensorflow:loss = 0.0037975025, step = 961 (5.283 sec)
+INFO:tensorflow:loss = 0.00014874435, step = 961 (5.283 sec)
+INFO:tensorflow:loss = 0.0024172724, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 5.557563e-05, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.005582875, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.0027737916, step = 961 (5.283 sec)
+INFO:tensorflow:loss = 0.12402051, step = 961 (5.283 sec)
+INFO:tensorflow:loss = 0.13387722, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 4.7499907e-05, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.06845449, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.04347271, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.0066252025, step = 961 (5.285 sec)
+INFO:tensorflow:loss = 0.089183204, step = 961 (5.284 sec)
+INFO:tensorflow:loss = 0.0036281904, step = 961 (5.321 sec)
+INFO:tensorflow:loss = 2.7179493e-07, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.01052841, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.23485965, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.004003228, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.0014915183, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 1.5443991e-05, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.0024275715, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.054705955, step = 971 (5.415 sec)
+INFO:tensorflow:loss = 0.04480267, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.046134505, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.00024683517, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 4.5299426e-08, step = 971 (5.452 sec)
+INFO:tensorflow:loss = 2.5037745e-05, step = 971 (5.454 sec)
+INFO:tensorflow:loss = 0.00056259974, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.00025176292, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 0.0058996715, step = 971 (5.453 sec)
+INFO:tensorflow:loss = 6.668049e-05, step = 981 (5.433 sec)
+INFO:tensorflow:loss = 1.05975e-06, step = 981 (5.433 sec)
+INFO:tensorflow:loss = 0.0012005622, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 1.9838833e-05, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.03894725, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 3.3259087e-07, step = 981 (5.433 sec)
+INFO:tensorflow:loss = 0.15108722, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 6.151916e-05, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 2.9722367e-05, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.016768973, step = 981 (5.433 sec)
+INFO:tensorflow:loss = 0.019807361, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 5.521336e-06, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.0007273533, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.0080351485, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.00059562706, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 0.035094455, step = 981 (5.434 sec)
+INFO:tensorflow:loss = 2.3053244e-06, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.1276401, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.0, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 1.4518753e-05, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 4.4583285e-07, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.0919872, step = 991 (5.276 sec)
+INFO:tensorflow:loss = 2.2695144e-06, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.1947721, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.0003815586, step = 991 (5.276 sec)
+INFO:tensorflow:loss = 4.5299483e-08, step = 991 (5.276 sec)
+INFO:tensorflow:loss = 9.876872e-05, step = 991 (5.276 sec)
+INFO:tensorflow:loss = 0.009948697, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 0.058839254, step = 991 (5.275 sec)
+INFO:tensorflow:loss = 3.748689e-05, step = 991 (5.278 sec)
+INFO:tensorflow:loss = 0.0021109579, step = 991 (5.281 sec)
+INFO:tensorflow:loss = 8.623044e-06, step = 991 (5.297 sec)
+INFO:tensorflow:loss = 0.010813459, step = 1001 (5.335 sec)
+INFO:tensorflow:loss = 0.48405772, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 0.017942384, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 8.344648e-09, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 4.564745e-06, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 0.014429075, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 0.0001069441, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 5.07819e-07, step = 1001 (5.357 sec)
+INFO:tensorflow:loss = 0.10288505, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 0.15614882, step = 1001 (5.357 sec)
+INFO:tensorflow:loss = 2.2290958e-06, step = 1001 (5.356 sec)
+INFO:tensorflow:loss = 8.393782e-05, step = 1001 (5.351 sec)
+INFO:tensorflow:loss = 1.6925409e-05, step = 1001 (5.357 sec)
+INFO:tensorflow:loss = 0.012769406, step = 1001 (5.354 sec)
+INFO:tensorflow:loss = 4.587778e-06, step = 1001 (5.357 sec)
+INFO:tensorflow:global_step/sec: 1.86415
+INFO:tensorflow:loss = 5.4185224e-05, step = 1001 (5.359 sec)
+INFO:tensorflow:loss = 0.20797598, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 6.1851197e-06, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 0.06898147, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 0.107251436, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 7.0586166e-06, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 0.0009525743, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 6.556958e-05, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 0.24015217, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 0.00040430517, step = 1011 (5.346 sec)
+INFO:tensorflow:loss = 0.0027658017, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 2.3245612e-07, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 0.15039122, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 0.0007981688, step = 1011 (5.348 sec)
+INFO:tensorflow:loss = 0.0025051914, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 0.0082587795, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 0.003070981, step = 1011 (5.349 sec)
+INFO:tensorflow:loss = 3.0838066e-05, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 1.4781887e-07, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 2.804675e-06, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 4.7802087e-07, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.0010650484, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 3.1406744e-06, step = 1021 (5.226 sec)
+INFO:tensorflow:loss = 0.00060619664, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 3.3951037e-05, step = 1021 (5.226 sec)
+INFO:tensorflow:loss = 8.91538e-06, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.0006741802, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.0014653053, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 2.927994e-05, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.056918755, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.00014414417, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 1.6057716e-05, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.076034926, step = 1021 (5.227 sec)
+INFO:tensorflow:loss = 0.058865108, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.17369488, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.009529661, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.014858565, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.053821344, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.0029857296, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.091231115, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.05962164, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.061085634, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.024697063, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.000372694, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.069035, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.020127203, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.14285193, step = 1031 (5.263 sec)
+INFO:tensorflow:loss = 0.04755065, step = 1031 (5.264 sec)
+INFO:tensorflow:loss = 0.06933123, step = 1031 (5.264 sec)
+INFO:tensorflow:loss = 0.03259398, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 8.310202e-06, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 1.8706325e-05, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.031985953, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 3.0226927e-06, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 1.2631789e-05, step = 1041 (5.353 sec)
+INFO:tensorflow:loss = 0.00022864407, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.0074767275, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.0029877115, step = 1041 (5.353 sec)
+INFO:tensorflow:loss = 0.0077482103, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 9.3694507e-07, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.022934837, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.0002448859, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 1.6895596e-05, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.0029554316, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 1.9354007e-05, step = 1041 (5.354 sec)
+INFO:tensorflow:loss = 0.001174055, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.19503872, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.0022137307, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.00083713705, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.029294133, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.002605065, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.026060633, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 1.7462378e-05, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.2527968, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.0048093125, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.00071428856, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.2932318, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.07291475, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 6.0151648e-05, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.072454765, step = 1051 (5.272 sec)
+INFO:tensorflow:loss = 0.00052142894, step = 1051 (5.292 sec)
+INFO:tensorflow:loss = 1.3113013e-08, step = 1061 (5.256 sec)
+INFO:tensorflow:loss = 6.365191e-05, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.1737319, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.039385736, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.0018828752, step = 1061 (5.256 sec)
+INFO:tensorflow:loss = 0.09021943, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 1.2685639e-05, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.0067017796, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.00045910626, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.0028413066, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 5.960463e-09, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 1.4305105e-08, step = 1061 (5.257 sec)
+INFO:tensorflow:loss = 0.0, step = 1061 (5.237 sec)
+INFO:tensorflow:loss = 0.0, step = 1061 (5.258 sec)
+INFO:tensorflow:loss = 0.19441837, step = 1061 (5.258 sec)
+INFO:tensorflow:loss = 9.14792e-06, step = 1061 (5.265 sec)
+INFO:tensorflow:loss = 0.0081774425, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 0.00010847057, step = 1071 (5.281 sec)
+INFO:tensorflow:loss = 3.88618e-07, step = 1071 (5.280 sec)
+INFO:tensorflow:loss = 2.8610195e-08, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 0.0049673, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 0.00012838654, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 0.12039276, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 0.010223189, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 4.928517e-06, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 8.1894655e-07, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 1.666955e-05, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 0.00044549943, step = 1071 (5.282 sec)
+INFO:tensorflow:loss = 1.679803e-05, step = 1071 (5.274 sec)
+INFO:tensorflow:loss = 3.433755e-05, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 2.0265473e-07, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 0.0749794, step = 1071 (5.283 sec)
+INFO:tensorflow:loss = 0.05973761, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.045207705, step = 1081 (5.304 sec)
+INFO:tensorflow:loss = 0.004337012, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 1.3460801e-05, step = 1081 (5.306 sec)
+INFO:tensorflow:loss = 0.006347201, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 6.364116e-05, step = 1081 (5.306 sec)
+INFO:tensorflow:loss = 0.053514834, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.00035405654, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 4.242967e-06, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 3.445126e-07, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.10262714, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.11866957, step = 1081 (5.306 sec)
+INFO:tensorflow:loss = 0.15846667, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.1738234, step = 1081 (5.305 sec)
+INFO:tensorflow:loss = 0.117890604, step = 1081 (5.306 sec)
+INFO:tensorflow:loss = 9.451378e-05, step = 1081 (5.308 sec)
+INFO:tensorflow:loss = 0.064888835, step = 1091 (5.274 sec)
+INFO:tensorflow:loss = 0.016517878, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.023681559, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.008044815, step = 1091 (5.271 sec)
+INFO:tensorflow:loss = 2.53288e-06, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.017686458, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 6.5457198e-06, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.0050417376, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 2.2540944e-06, step = 1091 (5.272 sec)
+INFO:tensorflow:loss = 0.011132879, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.048352413, step = 1091 (5.274 sec)
+INFO:tensorflow:loss = 0.01692431, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.018422067, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.016947595, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 0.00769824, step = 1091 (5.274 sec)
+INFO:tensorflow:loss = 1.2874568e-07, step = 1091 (5.273 sec)
+INFO:tensorflow:loss = 1.7817143e-05, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.106150456, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.050755333, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 1.084753e-06, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.13383059, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.00065919856, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.027171178, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.13895477, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.16540603, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.28206596, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.021531636, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.038660172, step = 1101 (5.438 sec)
+INFO:tensorflow:loss = 0.11462877, step = 1101 (5.439 sec)
+INFO:tensorflow:loss = 0.041841153, step = 1101 (5.439 sec)
+INFO:tensorflow:global_step/sec: 1.88604
+INFO:tensorflow:loss = 0.028881354, step = 1101 (5.440 sec)
+INFO:tensorflow:loss = 9.519817e-05, step = 1101 (5.441 sec)
+INFO:tensorflow:loss = 0.00043384466, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 1.4543434e-07, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 0.0005068258, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 4.911501e-05, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 1.1920929e-09, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 0.011473987, step = 1111 (5.473 sec)
+INFO:tensorflow:loss = 2.9859975e-05, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 8.344647e-09, step = 1111 (5.472 sec)
+INFO:tensorflow:loss = 8.100981e-06, step = 1111 (5.474 sec)
+INFO:tensorflow:loss = 3.657864e-06, step = 1111 (5.475 sec)
+INFO:tensorflow:loss = 2.7463948e-05, step = 1111 (5.475 sec)
+INFO:tensorflow:loss = 7.3311276e-07, step = 1111 (5.475 sec)
+INFO:tensorflow:loss = 0.05281568, step = 1111 (5.475 sec)
+INFO:tensorflow:loss = 0.060881328, step = 1111 (5.475 sec)
+INFO:tensorflow:loss = 1.5245822e-06, step = 1111 (5.476 sec)
+INFO:tensorflow:loss = 0.00019199503, step = 1111 (5.492 sec)
+INFO:tensorflow:loss = 0.0758755, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.17751633, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.16918434, step = 1121 (5.246 sec)
+INFO:tensorflow:loss = 2.691384e-06, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 7.1917357e-06, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.12767828, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.0463243, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 1.3153023e-05, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.1531875, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.00012048795, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 2.9440544e-06, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 2.6854555e-05, step = 1121 (5.231 sec)
+INFO:tensorflow:loss = 0.120927274, step = 1121 (5.247 sec)
+INFO:tensorflow:loss = 0.4734892, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.00075241824, step = 1121 (5.248 sec)
+INFO:tensorflow:loss = 0.11504132, step = 1121 (5.248 sec)
+INFO:tensorflow:Saving checkpoints for 1129 into ./checkpoints/model.ckpt.
+INFO:tensorflow:loss = 0.017492188, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.0017078305, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.026532022, step = 1131 (5.251 sec)
+INFO:tensorflow:loss = 0.10480859, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.00052609993, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.060992002, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 3.6819067e-05, step = 1131 (5.251 sec)
+INFO:tensorflow:loss = 0.20152725, step = 1131 (5.251 sec)
+INFO:tensorflow:loss = 0.001204234, step = 1131 (5.251 sec)
+INFO:tensorflow:loss = 5.6046924e-06, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.05340562, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.0017262108, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.034481768, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.00076961756, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 0.1672596, step = 1131 (5.252 sec)
+INFO:tensorflow:loss = 2.622601e-08, step = 1131 (5.254 sec)
+INFO:tensorflow:loss = 3.7758375e-06, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.00021330315, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 1.6093132e-07, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.012224165, step = 1141 (5.376 sec)
+INFO:tensorflow:loss = 0.0019507087, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.004543439, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 8.583036e-08, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 2.3722507e-07, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.021539552, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.053794526, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 8.106199e-08, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.00035711675, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 2.3126353e-07, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 0.058729, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 9.438113e-06, step = 1141 (5.378 sec)
+INFO:tensorflow:loss = 7.2595944e-06, step = 1141 (5.379 sec)
+INFO:tensorflow:loss = 1.871569e-07, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 6.3268235e-06, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 2.1099902e-07, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 1.1977541e-05, step = 1151 (5.251 sec)
+INFO:tensorflow:loss = 6.9987263e-06, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 0.033730824, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 2.7768092e-05, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 1.7277685e-05, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 1.1920929e-09, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 0.029937452, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 2.4090941e-06, step = 1151 (5.251 sec)
+INFO:tensorflow:loss = 1.2111198e-06, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 2.8610208e-08, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 0.003083928, step = 1151 (5.252 sec)
+INFO:tensorflow:loss = 0.00084757135, step = 1151 (5.253 sec)
+INFO:tensorflow:loss = 6.4873743e-06, step = 1151 (5.251 sec)
+INFO:tensorflow:loss = 0.11029828, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 7.7425626e-05, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.00010776679, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.09840114, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 2.1219148e-07, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.11625824, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.0006958123, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 0.22801149, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 3.118978e-05, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 0.0015683707, step = 1161 (5.262 sec)
+INFO:tensorflow:loss = 0.09668927, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.00027553254, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 0.07372511, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.019359177, step = 1161 (5.263 sec)
+INFO:tensorflow:loss = 0.08076727, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 0.11788725, step = 1161 (5.264 sec)
+INFO:tensorflow:loss = 0.065280855, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 5.960463e-09, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.042212475, step = 1171 (5.301 sec)
+INFO:tensorflow:loss = 4.9471088e-05, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 1.620819e-05, step = 1171 (5.301 sec)
+INFO:tensorflow:loss = 4.7873295e-05, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.3303396, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.0, step = 1171 (5.301 sec)
+INFO:tensorflow:loss = 1.430511e-08, step = 1171 (5.301 sec)
+INFO:tensorflow:loss = 3.2420314e-05, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.047742672, step = 1171 (5.301 sec)
+INFO:tensorflow:loss = 0.013271942, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.00245628, step = 1171 (5.303 sec)
+INFO:tensorflow:loss = 2.8867738e-05, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 0.11498013, step = 1171 (5.300 sec)
+INFO:tensorflow:loss = 4.6491536e-08, step = 1171 (5.312 sec)
+INFO:tensorflow:loss = 3.1156699e-06, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.00022368631, step = 1181 (5.297 sec)
+INFO:tensorflow:loss = 0.060243864, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 1.17592435e-05, step = 1181 (5.297 sec)
+INFO:tensorflow:loss = 1.14440525e-07, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.0030197704, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.03122763, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 1.3529339e-06, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 6.794906e-08, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 1.4304148e-06, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.001107423, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 1.740441e-07, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.0022008745, step = 1181 (5.295 sec)
+INFO:tensorflow:loss = 0.038710006, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 1.19209265e-08, step = 1181 (5.298 sec)
+INFO:tensorflow:loss = 0.015419405, step = 1181 (5.343 sec)
+INFO:tensorflow:loss = 0.18532468, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.00041899868, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 6.5564926e-08, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.004236877, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.12521058, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 6.7390392e-06, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.120381445, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.020678733, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.013549022, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 2.7418098e-08, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 0.009130845, step = 1191 (5.259 sec)
+INFO:tensorflow:loss = 0.0005967388, step = 1191 (5.316 sec)
+INFO:tensorflow:loss = 0.012570368, step = 1191 (5.316 sec)
+INFO:tensorflow:loss = 1.1682457e-07, step = 1191 (5.316 sec)
+INFO:tensorflow:loss = 0.18973172, step = 1191 (5.315 sec)
+INFO:tensorflow:loss = 1.742118e-05, step = 1191 (5.354 sec)
+INFO:tensorflow:loss = 0.05136777, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 0.0050704526, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 1.0888616e-05, step = 1201 (5.343 sec)
+INFO:tensorflow:loss = 0.06441624, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 2.0623041e-07, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 0.02662123, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 7.62938e-08, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 0.1092973, step = 1201 (5.345 sec)
+INFO:tensorflow:loss = 0.0004368277, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 5.2212306e-07, step = 1201 (5.345 sec)
+INFO:tensorflow:loss = 9.281806e-06, step = 1201 (5.345 sec)
+INFO:tensorflow:loss = 0.072551854, step = 1201 (5.345 sec)
+INFO:tensorflow:loss = 0.040775266, step = 1201 (5.344 sec)
+INFO:tensorflow:loss = 0.038627148, step = 1201 (5.306 sec)
+INFO:tensorflow:loss = 0.38383114, step = 1201 (5.345 sec)
+INFO:tensorflow:global_step/sec: 1.88237
+INFO:tensorflow:loss = 0.00010462287, step = 1201 (5.345 sec)
+INFO:tensorflow:loss = 2.264974e-08, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 0.051998835, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 3.5762724e-08, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 0.00019413151, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 2.3841855e-09, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 1.0728834e-08, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 0.0, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 0.082565986, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 1.7723873e-05, step = 1211 (5.319 sec)
+INFO:tensorflow:loss = 8.3801405e-07, step = 1211 (5.318 sec)
+INFO:tensorflow:loss = 5.0067776e-08, step = 1211 (5.320 sec)
+INFO:tensorflow:loss = 0.00034849954, step = 1211 (5.317 sec)
+INFO:tensorflow:loss = 7.392082e-05, step = 1211 (5.321 sec)
+INFO:tensorflow:loss = 9.286013e-07, step = 1211 (5.321 sec)
+INFO:tensorflow:loss = 5.698042e-07, step = 1211 (5.319 sec)
+INFO:tensorflow:loss = 1.1920929e-09, step = 1211 (5.369 sec)
+INFO:tensorflow:loss = 0.000574035, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 0.2697859, step = 1221 (5.320 sec)
+INFO:tensorflow:loss = 1.6689288e-08, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 0.0003814967, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 0.00593976, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 6.6757046e-08, step = 1221 (5.320 sec)
+INFO:tensorflow:loss = 0.00011914434, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 0.00035155285, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 4.768371e-09, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 0.005448297, step = 1221 (5.272 sec)
+INFO:tensorflow:loss = 0.0005048331, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 0.0007562286, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 6.81574e-05, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 2.0419525e-06, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 6.651758e-07, step = 1221 (5.322 sec)
+INFO:tensorflow:loss = 1.0478275e-06, step = 1221 (5.323 sec)
+INFO:tensorflow:loss = 5.68113e-06, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.0002953621, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 1.8130089e-06, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.073696636, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 1.2850322e-06, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.00040522896, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.030759148, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 2.4573505e-05, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.0016213044, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.00040263933, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.034755222, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 3.5762782e-09, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.016854407, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.0001045842, step = 1231 (5.384 sec)
+INFO:tensorflow:loss = 0.111668035, step = 1231 (5.386 sec)
+INFO:tensorflow:loss = 0.00040221744, step = 1231 (5.414 sec)
+INFO:tensorflow:loss = 1.9073482e-08, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 0.025991661, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 0.0, step = 1241 (5.178 sec)
+INFO:tensorflow:loss = 0.0013680196, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 2.0613184e-05, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 0.043354448, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 4.5790343e-06, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 8.854521e-06, step = 1241 (5.178 sec)
+INFO:tensorflow:loss = 0.0029695425, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 0.06801974, step = 1241 (5.178 sec)
+INFO:tensorflow:loss = 0.124241486, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 0.13863601, step = 1241 (5.175 sec)
+INFO:tensorflow:loss = 7.3601914e-05, step = 1241 (5.178 sec)
+INFO:tensorflow:loss = 0.13491453, step = 1241 (5.148 sec)
+INFO:tensorflow:loss = 0.0012538844, step = 1241 (5.177 sec)
+INFO:tensorflow:loss = 1.4613287e-05, step = 1241 (5.179 sec)
+INFO:tensorflow:Saving checkpoints for 1250 into ./checkpoints/model.ckpt.

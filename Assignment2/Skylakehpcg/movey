@@ -1,0 +1,6 @@
+i=1
+for files in $(ls | grep .yaml)
+do
+	mv $files ./output/hpcg$i
+	i=$(($i+1))
+done

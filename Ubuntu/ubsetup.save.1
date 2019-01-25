@@ -1,0 +1,68 @@
+mv ~/Student-Cluster-Competition ~/SCC
+cd
+#MPICH
+mkdir mpich
+wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
+tar -xvf mpich-3.2.1.tar.gz
+cd mpich-3.2.1
+./configure --prefix=/home/cc/mpich
+make all |& tee m.log
+make all install |& tee mi.log
+printf "PATH=/home/cc/mpich/bin:$PATH ; export PATH" >> /home/cc/.bashrc
+#BLAS
+cd
+sudo apt-get install libblas-dev -y
+sudo apt-get install libblas-doc -y
+#HPL
+wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
+tar -xvf hpl-2.2.tar.gz
+cd hpl-2.2
+cp ~/SCC/Ubuntu/Make.hpl Make.hpl
+make arch=hpl clean_arch_all
+make arch=hpl
+cd bin/hpl
+cp -r /home/cc/SCC/hplData/* ./ 
+#HPCG
+cd
+wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
+tar -xvf hpcg-3.0.tar.gz
+cd hpcg-3.0/setup
+cp /home/cc/SCC/Ubuntu/Make.hpcg Make.hpcg
+cd ..
+mkdir build
+cd build
+/home/cc/hpcg-3.0/configure hpcg
+make
+cd bin
+cp -r /home/cc/SCC/hpcgData/* ./
+#Horovod
+cd
+sudo apt install python-pip -y
+pip install Tensorflow
+pip install torch torchvision
+pip install horovod
+git clone https://github.com/uber/horovod
+#Monte Carlo
+cd
+sudo apt install gfortran -y
+sudo apt install g++ -y
+sudo apt install cmake -y
+sudo apt-get install libhdf5-dev -y
+git clone https://github.com/mit-crpg/openmc.git
+cd openmc
+mkdir build && cd build
+cmake ..
+make
+sudo make install
+pip install six
+pip install numpy
+pip install scipy
+pip install pandas
+pip install h5py
+pip install Matplotlib
+pip install uncertainties
+pip install lxml
+pip install Cython
+pip install vtk
+pip install silomesh
+pip install pytest

@@ -1,0 +1,13 @@
+for N in {50..300..50}
+do
+        for P in {3,4,6,8}
+        do
+                Q=`expr 48 / $P`
+		printf "\n\nHPL.out\n1\n1\n50000\n1\n" echo > datafiles/HPL$N$P.dat
+                echo $N >> datafiles/HPL$N$P.dat
+		printf "0\n1\n" echo >> datafiles/HPL$N$P.dat
+		echo $P >> datafiles/HPL$N$P.dat
+		echo $Q >> datafiles/HPL$N$P.dat
+		printf "16.0\n1\n2\n1\n4\n1\n2\n1\n1\n1\n1\n1\n1\n2\n64\n0\n0\n1\n8" echo >> datafiles/HPL$N$P.dat
+	done
+done

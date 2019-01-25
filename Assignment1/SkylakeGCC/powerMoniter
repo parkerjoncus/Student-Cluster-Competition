@@ -1,0 +1,1 @@
+powerstat -R .5 1200000 -c -z -d 0 | sed -e 's/\s\+/,/g' > powerdata

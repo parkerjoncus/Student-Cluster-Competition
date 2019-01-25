@@ -1,0 +1,41 @@
+sudo yum install nano -y
+sudo yum install tmux -y
+sudo curl https://copr.fedorainfracloud.org/coprs/nunodias/Powerstat/repo/epel-7/nunodias-Powerstat-epel-7.repo -o /etc/yum.repos.d/nunodias-Powerstat-epel-7.repo
+sudo yum install powerstat -y
+sudo yum install libasound.so.2 -y
+sudo yum groupinstall "Development Tools" -y
+sudo yum install gtk+-devel gtk2-devel -y
+sudo yum groupinstall "X Window System" -y
+tar -xvf parallel_studio_xe_2018_update3_cluster_edition.tar
+cd parallel_studio_xe_2018_update3_cluster_edition
+sudo ./install.sh
+#serial number:ST5V-TV8WNRJS
+cd
+printf 'PATH=/opt/intel/impi/2018.3.222/bin64:$PATH ; export PATH\n' echo >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin:$PATH ; export PATH\n' >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/bin/intel64:$PATH ; export PATH\n' >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/compiler/lib/intel64_lin:$PATH ; export $PATH\n' >> .bashrc
+printf 'LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin ; export LD_LIBRARY_PATH\n' >> .bashrc
+wget http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz
+gunzip hpl-2.2.tar.gz
+tar -xvf hpl-2.2.tar
+mv hpl-2.2 hpl
+sudo cp /opt/intel/compilers_and_libraries_2018.3.222/linux/compiler/lib/intel64_lin/libiomp5.so /opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin/
+cp /home/cc/Assignment1/Make.intel64 /home/cc/hpl
+cd hpl
+make arch=intel64
+cd bin/intel64
+cp -r /home/cc/Assignment1/HPLfiles/* /home/cc/hpl/bin/intel64/
+#hpcg
+cd
+wget "http://www.hpcg-benchmark.org/downloads/hpcg-3.0.tar.gz"
+tar -xvf hpcg-3.0.tar.gz
+cd hpcg-3.0/setup
+cp /home/cc/Assignment2/Make.hpcg Make.hpcg
+cd ..
+mkdir build
+cd build
+/home/cc/hpcg-3.0/configure hpcg
+make
+cd bin
+cp -r /home/cc/Assignment1/HPCGfiles/* /home/cc/hpcg-3.0/build/bin/

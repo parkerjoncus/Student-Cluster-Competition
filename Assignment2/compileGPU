@@ -1,0 +1,40 @@
+sudo yum update -y
+sudo yum install nano -y
+sudo yum install tmux -y
+sudo curl https://copr.fedorainfracloud.org/coprs/nunodias/Powerstat/repo/epel-7/nunodias-Powerstat-epel-7.repo -o /etc/yum.repos.d/nunodias-Powerstat-epel-7.repo
+sudo yum install powerstat -y
+sudo yum install libasound.so.2 -y
+sudo yum groupinstall "Development Tools" -y
+sudo yum install gtk+-devel gtk2-devel -y
+sudo yum groupinstall "X Window System" -y
+tar -xvf parallel_studio_xe_2018_update3_cluster_edition.tar
+cd parallel_studio_xe_2018_update3_cluster_edition
+sudo ./install.sh
+#serial number:ST5V-TV8WNRJS
+cd
+printf 'PATH=/opt/intel/impi/2018.3.222/bin64:$PATH ; export PATH\n' echo >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin:$PATH ; export PATH\n' >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/bin/intel64:$PATH ; export PATH\n' >> .bashrc
+printf 'PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/compiler/lib/intel64_lin:$PATH ; export $PATH\n' >> .bashrc
+printf 'LD_LIBRARY_PATH=/opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin ; export LD_LIBRARY_PATH\n' >> .bashrc
+
+#Work in progress
+sudo yum -y groupinstall "GNOME Desktop" "Development Tools"
+sudo yum -y install kernel-devel
+sudo yum -y install epel-release
+sudo yum -y install dkms
+wget http://us.download.nvidia.com/XFree86/Linux-x86_64/390.87/NVIDIA-Linux-x86_64-390.87.run
+sudo sh sh NVIDIA-Linux-x86_64-*.run
+wget https://developer.nvidia.com/compute/cuda/9.2/Prod2/local_installers/cuda_9.2.148_396.37_linux
+sudo sh sh cuda_
+
+wget http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz
+gunzip hpl-2.2.tar.gz
+tar -xvf hpl-2.2.tar
+mv hpl-2.2 hpl
+sudo cp /opt/intel/compilers_and_libraries_2018.3.222/linux/compiler/lib/intel64_lin/libiomp5.so /opt/intel/compilers_and_libraries_2018.3.222/linux/mkl/lib/intel64_lin/
+cp /home/cc/Assignment1/Make.intel64 /home/cc/hpl
+cd hpl
+make arch=intel64
+cd bin/intel64
+cp -r /home/cc/Assignment1/HPLfiles/* /home/cc/hpl/bin/intel64/

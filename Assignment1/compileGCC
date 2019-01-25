@@ -1,0 +1,34 @@
+sudo yum update
+sudo yum install nano -y
+
+##get powerstat to moniter power consumption
+sudo curl https://copr.fedorainfracloud.org/coprs/nunodias/Powerstat/repo/epel-7/nunodias-Powerstat-epel-7.repo -o /etc/yum.repos.d/nunodias-Powerstat-epel-7.repo
+sudo yum install powerstat -y
+
+##get and compile mpich an mpi library
+cd
+mkdir mpich
+wget "http://www.mpich.org/static/downloads/3.2.1/mpich-3.2.1.tar.gz"
+tar -xvf mpich-3.2.1.tar.gz
+cd mpich-3.2.1
+./configure --prefix=/home/cc/mpich
+make all |& tee m.log
+make all install |& tee mi.log
+printf "PATH=/home/cc/mpich/bin:$PATH ; export PATH\n" >> /home/cc/.bashrc
+
+##get and compile blas library
+cd
+sudo yum install blas -y
+
+##get and compile HPL
+cd
+wget "http://www.netlib.org/benchmark/hpl/hpl-2.2.tar.gz"
+tar -xvf hpl-2.2.tar.gz
+cd hpl-2.2
+cp ~/Assignment1/Make.hpl Make.hpl
+make arch=hpl clean_arch_all
+make arch=hpl
+cd bin/hpl
+
+##copy hpl files into the hpl directory
+cp -r ~/home/cc/Assignment1/HPLfiles/* ./

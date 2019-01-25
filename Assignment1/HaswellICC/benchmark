@@ -1,0 +1,24 @@
+rm -rf datafiles
+rm times
+mkdir datafiles
+cp powerdatatemp.csv powerdata.csv
+cp datatemplate.csv data.csv
+./writeHPL
+./powerMoniter &
+pwrpid=$(ps -a | grep powerMoniter)
+for file in $(ls -v ./datafiles)
+do
+	echo $file
+	cp datafiles/$file ./HPL.dat
+	starttime=$(date)
+	mpiexec -n 48 ./xhpl
+	endtime=$(date)
+	egrep "(e.00|e.01|e.02|e.03|e.04)" HPL.out > data
+        sed -e 's/\s\+/,/g' data >> data.csv
+	printf "start: " >> times
+	echo $starttime >> times
+	printf "end: " >> times
+	echo $endtime >> times
+done
+kill $pwrpid
+egrep "(..:..:..)" powerdata >> powerdata.csv
